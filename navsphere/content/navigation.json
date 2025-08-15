@@ -2,23 +2,47 @@
   "navigationItems": [
     {
       "id": "1",
-      "title": "常用推荐",
-      "icon": "Star",
+      "title": "🔥常用推荐",
+      "icon": "Home",
       "items": [
         {
-          "id": "1_2",
-          "title": "Vercel",
-          "href": "https://vercel.com/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-          "icon": "/assets/images/logos/vercel.png",
+          "id": "site_1754519584987_oyrlpbhxu",
+          "title": "YouTube",
+          "href": "https://www.youtube.com",
+          "description": "YouTube视频分享平台",
+          "icon": "/assets/favicon_1754519531755.png",
           "enabled": true
         },
         {
-          "id": "1_1",
-          "title": "Google Analytics",
-          "href": "https://analytics.google.com/",
-          "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
-          "icon": "/assets/images/logos/analytics.ico",
+          "id": "1754508495810",
+          "title": "Gmail邮箱",
+          "href": "https://mail.google.com/mail/u/0/#inbox",
+          "description": "Gmail 是一款直观、高效且实用的电子邮件服务。提供 15GB 存储空间、减少垃圾邮件以及移动设备访问功能。",
+          "icon": "/assets/favicon_1754509868043.ico",
+          "enabled": true
+        },
+        {
+          "id": "1754509284561",
+          "title": "Google表格",
+          "href": "https://docs.google.com/spreadsheets/u/0/",
+          "description": "使用个人 Google 账户或 Google Workspace 账户（用于商业用途）访问 Google 表格。",
+          "icon": "/assets/favicon_1754509296470.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1754519467032_ewn8zb80i",
+          "title": "微软邮箱",
+          "href": "https://outlook.live.com/mail/0/",
+          "description": "Outlook电子邮件服务",
+          "icon": "/assets/favicon_1754519410503.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1754520093900_vawpvvv28",
+          "title": "Twitter·推特",
+          "href": "https://x.com/home",
+          "description": "X:Twitter社交媒体平台",
+          "icon": "/assets/favicon_1754520025563.ico",
           "enabled": true
         },
         {
@@ -30,67 +54,19 @@
           "enabled": true
         },
         {
-          "id": "1_4",
-          "title": "Google AdSense",
-          "href": "https://www.google.com/adsense/",
-          "description": "Google AdSense广告服务。",
-          "icon": "/assets/images/logos/gads.ico",
+          "id": "site_1754585116564_jpitdf6bf",
+          "title": "GitHub",
+          "href": "https://github.com",
+          "description": "全球应用最广泛的、由人工智能驱动的开发者平台吧，在这里，数以百万计的开发者、企业以及规模庞大的开源社区共同开发能够推动人类进步的软件。",
+          "icon": "/assets/img_1754586360007.png",
           "enabled": true
         },
         {
-          "id": "1_5",
-          "title": "Producthunt",
-          "href": "https://www.producthunt.com/",
-          "description": "发现新鲜有趣的产品",
-          "icon": "/assets/images/logos/producthunt.png",
-          "enabled": true
-        },
-        {
-          "id": "1_6",
-          "title": "Leonardo.AI",
-          "href": "https://app.leonardo.ai/",
-          "description": "Leonardo.AI是一个人工智能绘图社区和工具。它基于Stable Diffusion人工智能模型,深度集成了其各种插件,提供强大的图片生成和创作功能。",
-          "icon": "/assets/images/logos/leonardo.ico",
-          "enabled": true
-        },
-        {
-          "id": "1_7",
-          "title": "Tensor.art",
-          "href": "https://tensor.art/",
-          "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
-          "icon": "/assets/images/logos/tensorart.ico",
-          "enabled": true
-        },
-        {
-          "id": "1735119857233",
-          "title": "截图美化工具",
-          "href": "https://shots.so/",
-          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
-          "icon": "/assets/images/logos/shots.webp",
-          "enabled": true
-        },
-        {
-          "id": "1741747111596",
-          "title": "PostSpark",
-          "href": "https://postspark.app/",
-          "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
-          "icon": "/assets/img_1741747241014.png",
-          "enabled": true
-        },
-        {
-          "id": "item-1754218579319",
-          "enabled": true,
-          "title": "DeepSeek - 探索未至之境",
-          "href": "https://chat.deepseek.com/",
-          "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
-          "icon": "/assets/favicon_1754218571142.svg"
-        },
-        {
-          "id": "1754229699374",
-          "title": "Lucide",
-          "href": "https://lucide.dev/",
-          "description": "Beautiful & consistent icon toolkit made by the community.",
-          "icon": "/assets/favicon_1754229702059.ico",
+          "id": "site_1754592522004_r95o32r89",
+          "title": "Google搜索",
+          "href": "https://www.google.com",
+          "description": "Google 搜索是由 Google LLC 提供的一项网络搜索引擎服务。它允许用户通过输入关键词或短语来查找互联网上的信息。Google 搜索是世界上最受欢迎和广泛使用的搜索引擎之一，每天处理数十亿次查询。",
+          "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAnFBMVEVHcEzqQzXqQjXqQzXqQzXqQzXrRzPqRDTqQzXqQzXqQzXqQzXqOzbqQzX8vQPziCL7vAX8vAT3pRX7vAXsVzD7vAVChfRChfRChPRChfRChfT7vAVBhvJChfQ8m5BChfRChfRYq0wxqFPXuCEzqFKqsjUZp1Y0qFM9qVFDg/o0qFM0qFMzqFA8lLxDg/1ChfQ0qFM0qFMzqFE3onsP391uAAAAM3RSTlMAOYXD7f9hFN+ZWlX/bev/Mv//hv/CnZMe/0jGX2US7Nf/j//////KXoPe/DD//7+57UCtLMrnAAAA5ElEQVR4AX3QAxbEQBBF0T+2rdjG/vc23RXj5MZ5YaM0Gk+ms9l0Mh6hbc5CYTpH3WI5a1guUBrNOhYDbVw+c1aYrFaTZkPxvjXIpt7mW0oTlHYo7Q/bonUcT6fzbDtDr8uJuY7R63biit+6Pyr3J/a87ZF71b1x4j698TsUf0OP/eYfJIBAlIiYv5N+RVbQcKco8EFQNU1DAzURwF43WDS7N94BWLw1qv0iTzAORde1QDzTD3gLwQlaIVKUKGZbqgJIwu7TGlL+HyhqxxclwWne7Caos+JaU9DmKWbsurGpVHf9AR6XJvBaxWh+AAAAAElFTkSuQmCC",
           "enabled": true
         }
       ],
@@ -99,802 +75,315 @@
       "enabled": true
     },
     {
-      "id": "9",
-      "title": "AI工具包",
-      "icon": "Brain",
-      "items": [],
-      "subCategories": [
+      "id": "1754513686351",
+      "title": "⚙️网络相关",
+      "icon": "Settings",
+      "description": "",
+      "enabled": true,
+      "items": [
         {
-          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
-          "title": "AI助手",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "9_1",
-              "title": "ChatGPT",
-              "href": "https://chat.openai.com/",
-              "description": "OpenAI开发的人工智能聊天机器人程序。",
-              "icon": "/assets/images/logos/chatgpt.png",
-              "enabled": true
-            },
-            {
-              "id": "9_2",
-              "title": "Claude",
-              "href": "https://claude.ai/",
-              "description": "Anthropic开发的AI助手，擅长分析和创作。",
-              "icon": "/assets/images/logos/claude.png",
-              "enabled": true
-            },
-            {
-              "id": "9_3",
-              "title": "Gemini",
-              "href": "https://gemini.google.com/",
-              "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
-              "icon": "/assets/images/logos/gemini.svg",
-              "enabled": true
-            },
-            {
-              "id": "9_4",
-              "title": "Poe",
-              "href": "https://poe.com/",
-              "description": "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
-              "icon": "/assets/images/logos/poe.svg",
-              "enabled": true
-            },
-            {
-              "id": "1739871926277",
-              "title": "perplexity",
-              "href": "https://www.perplexity.ai/",
-              "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
-              "icon": "/assets/img_1739871936809.png",
-              "enabled": true
-            }
-          ]
+          "id": "site_1754512759451_3gsxlmixi",
+          "title": "IP地址查询",
+          "href": "https://iplark.com",
+          "description": "高精度IP归属地查询工具",
+          "icon": "https://mao-nav-86o.pages.dev/sitelogo/iplark.com.ico",
+          "enabled": true
         },
         {
-          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
-          "title": "生产力工具",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1736418296509",
-              "title": "Napkin",
-              "href": "https://www.napkin.ai/",
-              "description": "Napkin turns your text into visuals so sharing your ideas is quick and effective.\n\nNapkin 能够将你的文本转化为视觉内容，使分享你的想法变得快速而有效。",
-              "icon": "/assets/img_1736418335098.png",
-              "enabled": true
-            },
-            {
-              "id": "1736911347619",
-              "title": "gamma",
-              "href": "https://gamma.app/",
-              "description": "AI生成PPT工具",
-              "icon": "/assets/img_1736911490095.png",
-              "enabled": true
-            }
-          ]
+          "id": "site_1754513101301_36yqlkzt5",
+          "title": "Speedtest测速",
+          "href": "https://www.speedtest.net/",
+          "description": "测试您的互联网速度",
+          "icon": "/assets/favicon_1754513016394.ico",
+          "enabled": true
         },
         {
-          "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
-          "title": "MCP Server",
-          "icon": "Edit",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1752554261491",
-              "title": "MCP Server 集合站",
-              "href": "https://smithery.ai/",
-              "description": "各种各样的 MCP Server",
-              "icon": "/assets/img_1752554273115.png",
-              "enabled": true
-            }
-          ]
+          "id": "site_1754519218105_oysq63dmv",
+          "title": "大学测速",
+          "href": "https://test.ustc.edu.cn/",
+          "description": "科学技术大学测速",
+          "icon": "/assets/favicon_1754519162248.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1754512928617_srols39mq",
+          "title": "Google测速",
+          "href": "https://fiber.google.com/speedtest",
+          "description": "测试一下你目前的网速，看看你的宽带wi-fi处理上传和下载的速度有多快。请参阅谷歌光纤计划选项以获得更快的互联网。",
+          "icon": "/assets/favicon_1754512888566.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1754519362015_3t6b5ympy",
+          "title": "IP 纯净度",
+          "href": "https://scamalytics.com/ip",
+          "description": "基于IP地址进行欺诈检测",
+          "icon": "/assets/favicon_1754519260221.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754519824104_6rsmcgnwt",
+          "title": "CF网络测速",
+          "href": "https://speed.cloudflare.com/",
+          "description": "测试您的网络连接。使用我们的网络速度测试来检查您的网络性能。该测试由 Cloudflare 的全球边缘网络提供支持。",
+          "icon": "/assets/favicon_1754519760358.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1754583489033_cspfxyb6m",
+          "title": "网络测速",
+          "href": "https://fast.com/",
+          "description": "您的下载速度有多快？只需几秒钟，FAST.com 的简单网络速度测试就能估算出您的网络服务提供商的网速。",
+          "icon": "/assets/favicon_1754583320402.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1755036426349_cy1ycmsfl",
+          "title": "VIP解析",
+          "href": "https://www.dog886.com/vip",
+          "description": "一个在线无需下载即可使用VIP视频在线解析便捷的在线工具网站,无需登录就可以便捷的使用在线工具的网站。",
+          "icon": "/assets/favicon_1755036396423.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1755036683832_mui1z759h",
+          "title": "地址生成器",
+          "href": "https://realaddress.fuyiran.com",
+          "description": "真实地址生成器",
+          "icon": "https://pic.imgdb.cn/item/66e7ab36d9c307b7e9cefd24.png",
+          "enabled": true
         }
       ],
-      "description": "",
-      "enabled": true
+      "subCategories": []
     },
     {
-      "id": "1735265493940",
-      "title": "开发者工具包",
-      "icon": "Box",
-      "description": "开发者工具，工具包",
+      "id": "1754550401823",
+      "title": "🤖AI智能助手",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1754550605708_32bmgs3hs",
+          "title": "DeepSeek",
+          "href": "https://ai-chatbot.top",
+          "description": "满血版DeepSeek，支持实时对话、深度思考和联网搜索。完全免费且无限制使用",
+          "icon": "https://ai-chatbot.top/images/logo.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754550738925_9a7c40ija",
+          "title": "Microsoft Copilot",
+          "href": "https://copilot.microsoft.com/chats/2WNdga9tWHRCMWU3SrBYD",
+          "description": "微软“Copilot”是您的贴心伙伴，能为您提供信息、带来娱乐并激发灵感。您可以获取建议、获得反馈以及得到简洁明了的答案。现在就试用“Copilot”吧。",
+          "icon": "/assets/favicon_1754550638875.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1754590436057_mylhxcwss",
+          "title": "grok",
+          "href": "https://grok.com/",
+          "description": "Grok 是一个人工智能助手，旨在通过自然语言处理和机器学习技术来理解和回应用户的查询。它的设计目标是提供更加人性化、智能化的交互体验，使用户能够以自然语言与计算机进行沟通。",
+          "icon": "/assets/favicon_1754590311000.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1754525974799",
+      "title": "🌐软件工具",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1754569131823_d9j9lj0qe",
+          "title": "二维码识别",
+          "href": "https://qr.codeboy.me/",
+          "description": "可直接剪切板粘贴二维码图片",
+          "icon": "/assets/favicon_1754569086974.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754569042515_yd5gvvt0e",
+          "title": "Youtube视频下载器",
+          "href": "https://yt5s.biz/zh-cn",
+          "description": "将高质量（720p，1080p，2k，4k）的YouTube视频下载到各种格式（MP4，MP3，3GP，WebM，M4A）。无需广告或应用。",
+          "icon": "/assets/favicon_1754569021415.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754568933665_fw9cnnbns",
+          "title": "全球时间",
+          "href": "https://time.is/",
+          "description": "700 万个地点，58 种语言，与原子钟时间同步。",
+          "icon": "/assets/favicon_1754568856543.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1754519949511_oqxyr4ohe",
+          "title": "汇率换算器",
+          "href": "https://wise.com/zh-cn/currency-converter",
+          "description": "免费查看最新的外汇汇率广告，并使用 Wise 汇率换算器兑换世界主要货币。",
+          "icon": "/assets/favicon_1754519947073.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754595355406_5gt8ss2h6",
+          "title": "SWIFT代码",
+          "href": "https://bank-codes-hk.com/swift-code-checker/",
+          "description": "SWIFT代码工具会根据我们载有10万组独特SWIFT代码的数据库，检查你输入的SWIFT代码是否有效。",
+          "icon": "/assets/favicon_1754595165078.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754670196692_wexxqo27l",
+          "title": "临时邮箱",
+          "href": "https://smail.pw",
+          "description": "Smail临时邮箱生成器提供免费一次性邮箱服务，24小时邮箱地址无需注册即可使用。专业临时邮件解决方案，保护隐私，防止垃圾邮件。立即生成临时邮箱！",
+          "icon": "/assets/favicon_1754670182168.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1754521073887",
+      "title": "🔐云盘存储",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1754521218389_v5vekxd3l",
+          "title": "Dropbox",
+          "href": "https://www.dropbox.com/home",
+          "description": "Dropbox 是一款由 Dropbox, Inc. 开发的云存储和文件同步服务。它允许用户在多个设备之间同步文件和文件夹，并提供在线存储空间。",
+          "icon": "/assets/favicon_1754521167739.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1754521318191_uv9kakhg8",
+          "title": "InfiniCLOUD",
+          "href": "https://infini-cloud.net/",
+          "description": "InfiniCLOUD 是一个基于云计算的存储和数据管理平台，旨在为用户提供安全、可靠且高效的云存储解决方案。",
+          "icon": "/assets/favicon_1754521284799.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754670361128_6b1xbv4js",
+          "title": "Google 云端硬盘",
+          "href": "https://drive.google.com/drive/home",
+          "description": "Google 云端硬盘（Google Drive） 是谷歌公司推出的一款云存储服务，允许用户存储、管理和共享文件和数据。它为用户提供了一个安全、便捷的在线存储空间，用户可以通过电脑、手机或平板等多种设备访问和管理自己的文件",
+          "icon": "/assets/favicon_1754670257805.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1754525088236",
+      "title": "🏦网银钱包",
+      "icon": "FolderKanban",
+      "description": "",
       "enabled": true,
       "items": [],
       "subCategories": [
         {
-          "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
-          "title": "ICON",
-          "icon": "BookOpen",
-          "description": "站点图标",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1750831228317",
-              "title": "lucide",
-              "href": "https://lucide.dev/icons/house",
-              "description": "Beautiful &\nconsistent icons",
-              "icon": "/assets/img_1750831362985.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
-          "title": "UI框架",
-          "icon": "Files",
+          "id": "1bbe25a3-1f81-4d71-ba23-f68aee187742",
+          "title": "💰电子钱包",
+          "icon": "Network",
           "description": "",
           "enabled": true,
           "items": [
             {
-              "id": "1735265532154",
-              "title": "shadcn ",
-              "href": "https://ui.shadcn.com/",
-              "description": "Build your component library\nBeautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.",
-              "icon": "/assets/img_1735265752690.png",
+              "id": "site_1754525891837_kei0t4wda",
+              "title": "Wise ",
+              "href": "https://wise.com/login",
+              "description": "银行在办理跨境转账时收费颇高。而我们则不同，我们的转账费用很低，能够让您轻松快捷地进行跨境汇款。",
+              "icon": "/assets/favicon_1754525850677.png",
               "enabled": true
             },
             {
-              "id": "1751433573273",
-              "title": "shadcn ui  Theme",
-              "href": "https://tweakcn.com/",
-              "description": "Design Your Perfect \nshadcn/ui\n Theme\nCustomize colors, typography, and layouts with a real-time preview. No signup required.",
-              "icon": "/assets/img_1751433579053.png",
+              "id": "site_1754526601867_7de7vczlo",
+              "title": "PayPal US",
+              "href": "https://www.paypal.com/us/home",
+              "description": "无论是向朋友支付款项、节省开支，还是在购物时获得返现，快来探索一下这款全新的 PayPal 应用程序所提供的各种服务吧。",
+              "icon": "/assets/favicon_1754526555205.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1754526744469_80v7fia8c",
+              "title": "Epay 易派",
+              "href": "https://www.epay.com/",
+              "description": "Epay 为全球企业提供定制化的支付服务，包括 API 网关、货币兑换及结算等服务。",
+              "icon": "/assets/favicon_1754526676702.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1754591626151_43p2t4gwh",
+              "title": "Kraken",
+              "href": "https://www.kraken.com/",
+              "description": "在 Kraken 这个受监管且安全的加密货币交易平台上，您可以购买、出售、交易以及存储您的加密货币。",
+              "icon": "/assets/favicon_1754591438244.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1754671389716_gkgq21j3u",
+              "title": "Wirex",
+              "href": "https://id.wirexapp.com/login",
+              "description": "Wirex 是一个数字支付平台，其使命是让加密货币和传统货币平等且人人可用。",
+              "icon": "/assets/favicon_1754671360829.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1754671572781_of358957z",
+              "title": "volet",
+              "href": "https://account.volet.com/login",
+              "description": "功能丰富的支付平台。轻松发送、接收、兑换、消费和管理您的数字货币",
+              "icon": "/assets/favicon_1754671494183.ico",
               "enabled": true
             }
           ]
         },
         {
-          "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
-          "title": "托管平台",
-          "icon": "Book",
+          "id": "ec70f497-1846-4cf4-a2bb-26bf44dccc94",
+          "title": "🏦数字银行",
+          "icon": "Network",
           "description": "",
           "enabled": true,
           "items": [
             {
-              "id": "1735612561958",
-              "title": "Cloudflare",
-              "href": "https://dash.cloudflare.com/",
-              "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
-              "icon": "/assets/images/logos/cloudflar.ico",
+              "id": "site_1754525414729_bv0fj65dl",
+              "title": "OCBC 新加坡华侨",
+              "href": "https://www.ocbc.com/personal-banking/home",
+              "description": "新加坡华侨银行为您提供全方位的个人银行业务产品及服务，满足您的一切金融需求。选择华侨银行，即可轻松管理并增值您的财富。了解更多。",
+              "icon": "data:image/webp;base64,UklGRj4CAABXRUJQVlA4WAoAAAAQAAAAEQAAEQAAQUxQSBIBAAARBrm2th17lOeNy5R2SuMQbNupbKO1k9a27bRWxWFt65v3GR/D/UbEBJAOSDd48uk37elUiB793UI9ZwkGcOpGggC/9y1e7/jvH/wJMLqQaAv9JgGGxAc30q2z79G4PijYu/xWAnymF4gXOX5rdp56BONBCUZo1jvJe0bR3/v0SBidSvCkv3n2WXfJWtZNAwkkMvBEez+falr58mtvIkHYSYamAORPlFVsjxGEPQPaEwlsXMofR5mCdBMYeN51DZzvX16oVoLhKQPTjkPDqsRZKWsB4yGWjDC9qYN9tae2ncyybiTAZ7pkMre+onD48J0hwR/cCPD/wP/53o8EQC6n/zpxpb9AN3j86fdvT6dDdUkAVlA4IAYBAADQBgCdASoSABIAPpEopFIloaWllACwEglsAJ0yhHhPqsnV0AHeAegBasdYgNloRtNjs91Fu0ff03kLebZvagwA/vqg7An6nTCNL9JHzHdtYMPujfXDjRPt2e3RnNiamI0lE3+OAC5YCdamsuX5fKuHi/P4yJtEqiH9uoaTB0quf/0sKM1+v940eufyLS+lHh8aOjX85rDu8qf0MhQSH4/6ToHQeSJtNn7xpGDrfm23x4bz9cFARbSb5u01483v5g31H7/MXGX7/K5oXIjdgNd64R7Zcd54G0ekHBtIP5moYDoQhzRjGgNaRnQa8zoOSueZ7ZW1L1//Fl2pTBXwAsD6gCU3AAAA",
               "enabled": true
             },
             {
-              "id": "1735612588184",
-              "title": "Vercel",
-              "href": "https://vercel.com/",
-              "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-              "icon": "/assets/images/logos/vercel.png",
+              "id": "site_1754525167139_1la0512y0",
+              "title": "SwissQuote 瑞讯银行",
+              "href": "https://trade.swissquote.ch/my.policy",
+              "description": "瑞讯银行（Swissquote Bank）是一家总部位于瑞士的在线银行和金融服务提供商，成立于1996年。它是瑞士领先的在线银行之一，提供多种金融产品和服务，包括外汇交易、股票交易、差价合约（CFD）、加密货币交易、资产管理、储蓄账户等。",
+              "icon": "https://mao-nav-86o.pages.dev/sitelogo/trade.swissquote.ch.ico",
               "enabled": true
             },
             {
-              "id": "1735612629450",
-              "title": "netlify",
-              "href": "https://www.netlify.com/",
-              "description": "Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.",
-              "icon": "/assets/img_1735612745862.png",
+              "id": "site_1754525655492_457xak6m1",
+              "title": "IFAST银行 ",
+              "href": "https://www.ifastgb.com/en/login",
+              "description": "IFAST银行是一家致力于为客户提供全方位金融服务的现代化银行。凭借创新的金融科技、卓越的客户服务和全球化的视野，IFAST银行致力于成为客户信赖的金融合作伙伴。无论是个人客户还是企业客户，IFAST银行都提供多样化的金融产品和服务，满足不同需求",
+              "icon": "/assets/favicon_1754525572526.ico",
               "enabled": true
             },
             {
-              "id": "1755225929754",
-              "title": "Tencent -  EdgeOne亚洲最佳CDN、边缘和安全解决方案",
-              "href": "https://edgeone.ai/zh",
-              "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
-              "icon": "/assets/favicon_1755225933031.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2040df1a-cbcd-40fa-a85c-151b5735fbd2",
-          "title": "画图工具",
-          "icon": "Book",
-          "description": "架构图，流程图",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1736921962115",
-              "title": "draw.io",
-              "href": "https://www.drawio.com/",
-              "description": "可以绘制架构图、流程图，软件周期内的其它设计图。为团队绘制安全第一的图表。\n将您的存储带到我们的在线工具，或使用桌面应用程序在本地保存。",
-              "icon": "/assets/img_1736922080517.png",
-              "enabled": true
-            },
-            {
-              "id": "1736922183993",
-              "title": "ProccessOn",
-              "href": "https://www.processon.com/",
-              "description": "ProccessOn是一款优秀的国产在线协作画图软件，非常好用，也非常漂亮。专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制\n",
-              "icon": "/assets/img_1736922262462.png",
-              "enabled": true
-            },
-            {
-              "id": "1736922380901",
-              "title": "Excalidraw",
-              "href": "https://excalidraw.com/",
-              "description": "Excalidraw是免费的在线协作画图工具。\n\n手写风格的草图非常好看；\n漂亮的图库。",
-              "icon": "/assets/img_1736922499401.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "62f10118-6926-4ea5-bb65-14adc90a29d2",
-          "title": "AI编程工具",
-          "icon": "Edit",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1737529639971",
-              "title": "Cursor",
-              "href": "https://www.cursor.com/",
-              "description": "The AI Code Editor Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
-              "icon": "/assets/img_1737529713172.png",
-              "enabled": true
-            },
-            {
-              "id": "1737529752867",
-              "title": "Windsurf",
-              "href": "https://codeium.com/",
-              "description": "Introducing the Windsurf Editor\nThe new purpose-built IDE to harness magic",
-              "icon": "/assets/img_1737529843741.png",
-              "enabled": true
-            },
-            {
-              "id": "1737529887245",
-              "title": "GitHub Copilot",
-              "href": "https://github.com/features/copilot",
-              "description": "The AI editor for everyone",
-              "icon": "/assets/img_1737530043708.png",
-              "enabled": true
-            },
-            {
-              "id": "1737530051856",
-              "title": "Trae",
-              "href": "https://www.trae.ai/",
-              "description": "字节新出的 Cursor 竞品 Trae ，可以用 claude3.5，限时免费\n，它的 Builder 相当于 Cursor 的 Composer 和 Agent 合体，建议默认使用 Builder。",
-              "icon": "/assets/img_1737530421138.png",
-              "enabled": true
-            },
-            {
-              "id": "1752662613676",
-              "title": "Kiro",
-              "href": "https://kiro.dev/",
-              "description": "The AI IDE for prototype to production\n",
-              "icon": "/assets/img_1752662633580.png",
-              "enabled": true
-            },
-            {
-              "id": "1752662747639",
-              "title": "Claude code",
-              "href": "https://www.anthropic.com/claude-code",
-              "description": "Unleash Claude’s raw power directly in your terminal. Search million-line codebases instantly. Turn hours-long workflows into a single command. Your tools. Your workflow. Your codebase, evolving at thought speed.",
-              "icon": "/assets/img_1752662771107.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "47206329-6eed-422c-bdc9-c7cec1eb5190",
-          "title": "域名注册",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1754295485849",
-              "title": "namecheap",
-              "href": "https://www.namecheap.com/",
-              "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 18 million domains under management, you know you’re in good hands.",
-              "icon": "/assets/favicon_1754295511938.ico",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1735433560958",
-      "title": "自媒体工具包",
-      "icon": "Video",
-      "description": "自媒体工具包",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "2fe4e538-79bf-4f73-b65c-63e00f94c42c",
-          "title": "国内平台",
-          "icon": "FileText",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1736913194873",
-              "title": "公众号助手",
-              "href": "https://mp.weixin.qq.com/",
-              "description": "公众号管理平台",
-              "icon": "/assets/img_1736913249592.png",
-              "enabled": true
-            },
-            {
-              "id": "1736912858570",
-              "title": "视频号助手",
-              "href": "https://channels.weixin.qq.com",
-              "description": "视频号助手，视频号创作站点",
-              "icon": "/assets/img_1736912962033.png",
-              "enabled": true
-            },
-            {
-              "id": "1736912680039",
-              "title": "小红书创作中心",
-              "href": "https://creator.xiaohongshu.com/",
-              "description": "小红书创作中心",
-              "icon": "/assets/img_1736912766835.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "5737638e-0c17-4377-9e67-12cf0fb2acd5",
-          "title": "国外平台",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1755168164096",
-              "title": "Reddit - The heart of the internet",
-              "href": "https://www.reddit.com/",
-              "description": "Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.",
-              "icon": "/assets/favicon_1755168414977.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2d33f756-959e-4171-9e0e-b616bcd274be",
-          "title": "公众号排版",
-          "icon": "Edit",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1754791068961",
-              "title": "NeuraPress Pro Markdown Editor",
-              "href": "https://mp.leti.ltd/",
-              "description": "NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的内容排版体验。 响应式设计，支持移动设备，让创作变得更加高效。\n\n",
-              "icon": "/assets/favicon_1754791082337.svg",
-              "enabled": true
-            },
-            {
-              "id": "1754791158725",
-              "title": "NeuraPress",
-              "href": "https://md.leti.ltd/",
-              "description": "Markdown 转微信公众号内容神器",
-              "icon": "/assets/favicon_1754791168416.svg",
-              "enabled": true
-            },
-            {
-              "id": "1735456910129",
-              "title": "WeChat Markdown Editor",
-              "href": "https://doocs.github.io/md/",
-              "description": "WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
-              "icon": "/assets/img_1735433660193.png",
-              "enabled": true
-            },
-            {
-              "id": "1737961258110",
-              "title": "mdnice",
-              "href": "https://editor.mdnice.com/",
-              "description": "微信公众号样式一键转换，知乎/语雀专属排版优化",
-              "icon": "/assets/img_1737961266055.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "e2b07afd-968c-4985-b6c2-8dc504bce17b",
-          "title": "录屏工具",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1753395646962",
-              "title": "Screenity",
-              "href": "https://screenity.io/",
-              "description": "开源免费的 chrome 录屏插件。",
-              "icon": "/assets/img_1753395904831.png",
-              "enabled": true
-            },
-            {
-              "id": "1753396049185",
-              "title": "Cursorful",
-              "href": "https://cursorful.com/",
-              "description": "具有自动缩放功能的屏幕录像 使用 Cursorful 浏览器扩展程序录制精美的屏幕录像跟随光标缩放或在编辑器中加载您自己的视频并可以手动添加缩放。",
-              "icon": "/assets/img_1753396105178.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "0ed6d8b1-effe-4535-8cde-60ec38f9c96c",
-          "title": "AI 检测工具",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1754573112532",
-              "title": "腾讯朱雀AI文本检测",
-              "href": "https://matrix.tencent.com/ai-detect/",
-              "description": "腾讯朱雀AI文本检测基于多种先进的人工智能模型，构造数百万级别的数据进行训练，能够识别出人类和AI的书写模式。该系统不仅具备优秀的英文检测能力，在处理中文数据方面表现尤为出色。\n",
-              "icon": "/assets/img_1754573290976.png",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "title": "常用工具",
-      "icon": "Laptop",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "3",
-          "title": "在线工具",
-          "href": "#在线工具",
-          "icon": "Folder",
-          "description": "",
-          "items": [
-            {
-              "id": "3_1",
-              "title": "TableConvert",
-              "href": "https://tableconvert.com/",
-              "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
-              "icon": "/assets/images/logos/tableconvert.png",
-              "enabled": true
-            },
-            {
-              "id": "3_2",
-              "title": "JSON Editor Online",
-              "href": "https://jsoneditoronline.org/",
-              "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
-              "icon": "/assets/images/logos/json.png",
-              "enabled": true
-            },
-            {
-              "id": "3_3",
-              "title": "Beautifier",
-              "href": "https://beautifier.io/",
-              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
-              "icon": "/assets/images/logos/beautifier.png",
-              "enabled": true
-            },
-            {
-              "id": "3_4",
-              "title": "SQL格式化",
-              "href": "https://www.dpriver.com/pp/sqlformat.htm",
-              "description": "在线美化SQL语句的工具，格式化方便阅读",
-              "icon": "/assets/images/logos/sqlformat.ico",
-              "enabled": true
-            },
-            {
-              "id": "3_5",
-              "title": "TinyPNG",
-              "href": "https://tinypng.com/",
-              "description": "在线图片压缩工具",
-              "icon": "/assets/images/logos/tinypng.png",
-              "enabled": true
-            },
-            {
-              "id": "1735256523960",
-              "title": "ScreenShots.pro",
-              "href": "https://screenshots.pro/",
-              "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
-              "icon": "/assets/img_1735258064656.png",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "4",
-          "title": "图形创意",
-          "href": "#图形创意",
-          "icon": "Folder",
-          "description": "",
-          "items": [
-            {
-              "id": "4_1",
-              "title": "photoshop",
-              "href": "https://www.adobe.com/cn/products/photoshop.html",
-              "description": "Photoshop不需要解释",
-              "icon": "/assets/images/logos/photoshop.png",
-              "enabled": true
-            },
-            {
-              "id": "4_2",
-              "title": "Affinity Designer",
-              "href": "https://affinity.serif.com/",
-              "description": "专业创意软件",
-              "icon": "/assets/images/logos/AffinityDesigner.png",
-              "enabled": true
-            },
-            {
-              "id": "4_3",
-              "title": "Illustrator",
-              "href": "https://www.adobe.com/cn/products/illustrator/",
-              "description": "矢量图形和插图。",
-              "icon": "/assets/images/logos/Illustrator.png",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "5",
-          "title": "界面设计",
-          "href": "#界面设计",
-          "icon": "Folder",
-          "description": "",
-          "items": [
-            {
-              "id": "5_1",
-              "title": "Figma",
-              "href": "https://www.figma.com/",
-              "description": "在线UI设计工具",
-              "icon": "/assets/images/logos/figma.png",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "6",
-          "title": "交互动效",
-          "href": "#交互动效",
-          "icon": "Book",
-          "description": "",
-          "items": [
-            {
-              "id": "6_1",
-              "title": "Adobe After Effects CC",
-              "href": "https://www.adobe.com/cn/products/aftereffects/",
-              "description": "电影般的视觉效果和动态图形。",
-              "icon": "/assets/images/logos/AdobeAfterEffectsCC.png",
-              "enabled": true
-            },
-            {
-              "id": "6_2",
-              "title": "principle",
-              "href": "http://principleformac.com/",
-              "description": "Animate Your Ideas, Design Better Apps",
-              "icon": "/assets/images/logos/principle.png",
-              "enabled": true
-            },
-            {
-              "id": "6_3",
-              "title": "flinto",
-              "href": "https://www.flinto.com/",
-              "description": "Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.",
-              "icon": "/assets/images/logos/flinto.png",
-              "enabled": true
-            },
-            {
-              "id": "6_4",
-              "title": "framer",
-              "href": "https://framer.com/",
-              "description": "Design everything from detailed icons to high-fidelity interactions—all in one place.",
-              "icon": "/assets/images/logos/framer.png",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "7",
-          "title": "在线配色",
-          "href": "#在线配色",
-          "icon": "Book",
-          "description": "",
-          "items": [
-            {
-              "id": "7_1",
-              "title": "Color Hunt",
-              "href": "https://colorhunt.co/",
-              "description": "色彩搭配",
-              "icon": "/assets/images/logos/colorhunt.png",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        }
-      ],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "8",
-      "title": "素材资源",
-      "icon": "linecons-thumbs-up",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "8_1",
-          "title": "图标素材",
-          "href": "#图标素材",
-          "icon": "",
-          "description": "",
-          "items": [
-            {
-              "id": "8_1_1",
-              "title": "Iconfinder",
-              "href": "https://www.iconfinder.com",
-              "description": "2,100,000+ free and premium vector icons.",
-              "icon": "/assets/images/logos/Iconfinder.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_2",
-              "title": "iconfont",
-              "href": "http://www.iconfont.cn/",
-              "description": "阿里巴巴矢量图标库",
-              "icon": "/assets/images/logos/iconfont.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_3",
-              "title": "iconmonstr",
-              "href": "https://iconmonstr.com/",
-              "description": "Free simple icons for your next project",
-              "icon": "/assets/images/logos/iconmonstr.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_4",
-              "title": "Icon Archive",
-              "href": "http://www.iconarchive.com/",
-              "description": "Search 590,912 free icons",
-              "icon": "/assets/images/logos/iconarchive.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_5",
-              "title": "FindIcons",
-              "href": "https://findicons.com/",
-              "description": "Search through 300,000 free icons",
-              "icon": "/assets/images/logos/FindIcons.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_6",
-              "title": "IcoMoonApp",
-              "href": "https://icomoon.io/app/",
-              "description": "Icon Font, SVG, PDF & PNG Generator",
-              "icon": "/assets/images/logos/IcoMoonApp.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_8",
-              "title": "flaticon",
-              "href": "https://www.flaticon.com/",
-              "description": "634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.",
-              "icon": "/assets/images/logos/flaticon.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_9",
-              "title": "UICloud",
-              "href": "http://ui-cloud.com/",
-              "description": "The largest user interface design database in the world.",
-              "icon": "/assets/images/logos/UICloud.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_10",
-              "title": "Material icons",
-              "href": "https://material.io/icons/",
-              "description": "Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.",
-              "icon": "/assets/images/logos/Materialicons.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_11",
-              "title": "Font Awesome Icon",
-              "href": "fontawesomeicon",
-              "description": "The complete set of 675 icons in Font Awesome",
-              "icon": "/assets/images/logos/fontawesomeicon.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_12",
-              "title": "ion icons",
-              "href": "http://ionicons.com/",
-              "description": "The premium icon font for Ionic Framework.",
-              "icon": "/assets/images/logos/ionicons.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_13",
-              "title": "Simpleline Icons",
-              "href": "http://simplelineicons.com/",
-              "description": "Simple line Icons pack",
-              "icon": "/assets/images/logos/simplelineicons.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "8_2",
-          "title": "LOGO设计",
-          "href": "#LOGO设计",
-          "icon": "",
-          "description": "",
-          "items": [
-            {
-              "id": "8_2_1",
-              "title": "Iconsfeed",
-              "href": "http://www.iconsfeed.com/",
-              "description": "iOS icons gallery",
-              "icon": "/assets/images/logos/iconsfeed.png",
-              "enabled": true
-            },
-            {
-              "id": "8_2_2",
-              "title": "iOS Icon Gallery",
-              "href": "http://iosicongallery.com/",
-              "description": "Showcasing beautiful icon designs from the iOS App Store",
-              "icon": "/assets/images/logos/iosicongallery.png",
-              "enabled": true
-            },
-            {
-              "id": "8_2_3",
-              "title": "World Vector Logo",
-              "href": "https://worldvectorlogo.com/",
-              "description": "Brand logos free to download",
-              "icon": "/assets/images/logos/worldvectorlogo.png",
-              "enabled": true
-            },
-            {
-              "id": "8_2_4",
-              "title": "Instant Logo Search",
-              "href": "http://instantlogosearch.com/",
-              "description": "Search & download thousands of logos instantly",
-              "icon": "/assets/images/logos/InstantLogoSearch.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "8_3",
-          "title": "平面素材",
-          "href": "#平面素材",
-          "icon": "",
-          "description": "",
-          "items": [
-            {
-              "id": "8_3_1",
-              "title": "Freepik",
-              "href": "https://www.freepik.com/",
-              "description": "免费矢量素材",
-              "icon": "/assets/images/logos/freepik.png",
-              "enabled": true
-            },
-            {
-              "id": "8_3_2",
-              "title": "Unsplash",
-              "href": "https://unsplash.com/",
-              "description": "免费高清图片",
-              "icon": "/assets/images/logos/unsplash.png",
+              "id": "site_1754525224782_ld0req8ux",
+              "title": "Dukascopy Bank 杜高斯贝",
+              "href": "https://my.dukascopy.bank/#/login",
+              "description": "Dukascopy Bank SA（杜高斯贝银行）是一家总部位于瑞士日内瓦的在线银行和经纪公司，成立于2004年。它以其创新的金融科技解决方案和先进的交易平台而闻名，特别是在外汇交易领域。",
+              "icon": "/assets/favicon_1754525427709.ico",
               "enabled": true
             }
           ]
