@@ -302,7 +302,7 @@
               "title": "Wise ",
               "href": "https://wise.com/login",
               "description": "银行在办理跨境转账时收费颇高。而我们则不同，我们的转账费用很低，能够让您轻松快捷地进行跨境汇款。",
-              "icon": "/assets/favicon_1754525850677.png",
+              "icon": "https://wise.com/public-resources/assets/icons/wise-personal/favicon.png",
               "enabled": true
             },
             {
