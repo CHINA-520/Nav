@@ -202,7 +202,7 @@
           "title": "二维码识别",
           "href": "https://qr.codeboy.me/",
           "description": "可直接剪切板粘贴二维码图片",
-          "icon": "/assets/favicon_1754569086974.png",
+          "icon": "https://qr.codeboy.me/favicon.png",
           "enabled": true
         },
         {
