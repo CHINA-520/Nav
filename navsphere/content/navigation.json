@@ -134,7 +134,7 @@
           "title": "网络测速",
           "href": "https://fast.com/",
           "description": "您的下载速度有多快？只需几秒钟，FAST.com 的简单网络速度测试就能估算出您的网络服务提供商的网速。",
-          "icon": "/assets/favicon_1754583320402.png",
+          "icon": "https://fast.com/assets/favicons/favicon.ico",
           "enabled": true
         },
         {
