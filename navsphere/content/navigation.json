@@ -142,7 +142,7 @@
           "title": "VIP解析",
           "href": "https://www.dog886.com/vip",
           "description": "一个在线无需下载即可使用VIP视频在线解析便捷的在线工具网站,无需登录就可以便捷的使用在线工具的网站。",
-          "icon": "/assets/favicon_1755036396423.ico",
+          "icon": "https://upyun.dog886.com/static/assets/img/logo.png",
           "enabled": true
         },
         {
