@@ -234,7 +234,7 @@
           "title": "SWIFT代码",
           "href": "https://bank-codes-hk.com/swift-code-checker/",
           "description": "SWIFT代码工具会根据我们载有10万组独特SWIFT代码的数据库，检查你输入的SWIFT代码是否有效。",
-          "icon": "https://wise.com/public-resources/assets/icons/wise-personal/favicon.png",
+          "icon": "https://bank-codes-hk.com/favicon.png",
           "enabled": true
         },
         {
