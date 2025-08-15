@@ -126,7 +126,7 @@
           "title": "CF网络测速",
           "href": "https://speed.cloudflare.com/",
           "description": "测试您的网络连接。使用我们的网络速度测试来检查您的网络性能。该测试由 Cloudflare 的全球边缘网络提供支持。",
-          "icon": "/assets/favicon_1754519760358.ico",
+          "icon": "https://www.cloudflare.com/favicon.ico",
           "enabled": true
         },
         {
