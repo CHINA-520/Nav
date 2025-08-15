@@ -118,7 +118,7 @@
           "title": "IP 纯净度",
           "href": "https://scamalytics.com/ip",
           "description": "基于IP地址进行欺诈检测",
-          "icon": "/assets/favicon_1754519260221.png",
+          "icon": "https://scamalytics.com/wp-content/uploads/2016/06/icon_128.png",
           "enabled": true
         },
         {
