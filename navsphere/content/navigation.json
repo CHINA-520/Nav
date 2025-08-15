@@ -102,7 +102,7 @@
           "title": "大学测速",
           "href": "https://test.ustc.edu.cn/",
           "description": "科学技术大学测速",
-          "icon": "/assets/favicon_1754519162248.ico",
+          "icon": "https://test.ustc.edu.cn/favicon.ico",
           "enabled": true
         },
         {
