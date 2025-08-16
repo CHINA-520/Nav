@@ -387,6 +387,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "8f300db4-d03f-4f36-abe6-34f757caf5eb",
+          "title": "📈证券交易",
+          "icon": "BarChart",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
