@@ -1,8 +1,8 @@
 {
   "basic": {
     "title": "书签导航",
-    "description": "简洁美观的个人导航网站",
-    "keywords": "简洁美观的个人导航网站"
+    "description": "一个简洁美观的个人导航网站，支持分类管理和自定义收藏夹",
+    "keywords": "简洁 美观 个人导航网站"
   },
   "appearance": {
     "logo": "https://github.githubassets.com/favicons/favicon.png",
