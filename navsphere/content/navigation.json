@@ -252,6 +252,14 @@
           "description": "Smail临时邮箱生成器提供免费一次性邮箱服务，24小时邮箱地址无需注册即可使用。专业临时邮件解决方案，保护隐私，防止垃圾邮件。立即生成临时邮箱！",
           "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754670182168.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1755796505309_ul23cgfid",
+          "title": "Hexhub",
+          "href": "https://www.hexhub.cn/",
+          "description": "HexHub 为程序员和运维人员量身打造的一站式开发运维利器",
+          "icon": "/assets/favicon_1755796475606.png",
+          "enabled": true
         }
       ],
       "subCategories": []
