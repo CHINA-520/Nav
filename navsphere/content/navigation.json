@@ -260,6 +260,14 @@
           "description": "HexHub 为程序员和运维人员量身打造的一站式开发运维利器",
           "icon": "/assets/favicon_1755796475606.png",
           "enabled": true
+        },
+        {
+          "id": "site_1756458677901_v28u5bpqq",
+          "title": "VPS四合一",
+          "href": "https://github.com/eooce/Sing-box",
+          "description": " sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞 - eooce/Sing-box",
+          "icon": "/assets/favicon_1756458592544.png",
+          "enabled": true
         }
       ],
       "subCategories": []
