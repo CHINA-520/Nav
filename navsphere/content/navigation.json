@@ -309,6 +309,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=v2rayn.2dust.link",
               "enabled": true
+            },
+            {
+              "id": "site_1758476445167_n4ez4vecb",
+              "title": "GitHub - mihomo-party-org/clash-party: :electron: Another Mihomo GUI.",
+              "href": "https://github.com/mihomo-party-org/clash-party",
+              "description": "另一个 Mihomo 图形用户界面",
+              "icon": "/assets/favicon_1758476359149.png",
+              "enabled": true
             }
           ]
         }
