@@ -294,49 +294,7 @@
           "enabled": true
         }
       ],
-      "subCategories": [
-        {
-          "id": "56c2bec5-adac-456a-808c-e7d09d51dd0e",
-          "title": "代理服务器",
-          "icon": "Settings",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1758476276584_ulw40nxj4",
-              "title": "v2rayn",
-              "href": "https://v2rayn.2dust.link",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=v2rayn.2dust.link",
-              "enabled": true
-            },
-            {
-              "id": "site_1758476445167_n4ez4vecb",
-              "title": "GitHub - mihomo-party-org/clash-party: :electron: Another Mihomo GUI.",
-              "href": "https://github.com/mihomo-party-org/clash-party",
-              "description": "另一个 Mihomo 图形用户界面",
-              "icon": "/assets/favicon_1758476359149.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1758476559973_9rte3rawc",
-              "title": "FlClash",
-              "href": "https://github.com/chen08209/FlClash/releases/tag/v0.8.87",
-              "description": "一款基于 ClashMeta 的多平台代理客户端，简单易用，开源且无广告",
-              "icon": "/assets/favicon_1758476499672.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1758476683385_90bm73wzk",
-              "title": "Karing",
-              "href": "https://karing.app/download/",
-              "description": "兼容Clash的通用网络代理工具, 支持clash/v2ray/ss订阅",
-              "icon": "/assets/favicon_1758476611770.ico",
-              "enabled": true
-            }
-          ]
-        }
-      ]
+      "subCategories": []
     },
     {
       "id": "1754521073887",
