@@ -301,7 +301,16 @@
           "icon": "Settings",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1758476276584_ulw40nxj4",
+              "title": "v2rayn",
+              "href": "https://v2rayn.2dust.link",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=v2rayn.2dust.link",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
