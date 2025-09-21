@@ -294,7 +294,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "56c2bec5-adac-456a-808c-e7d09d51dd0e",
+          "title": "代理服务器",
+          "icon": "Settings",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1754521073887",
