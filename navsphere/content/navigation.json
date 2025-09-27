@@ -223,10 +223,10 @@
       "items": [
         {
           "id": "site_1754569131823_d9j9lj0qe",
-          "title": "二维码识别",
-          "href": "https://qr.codeboy.me/",
-          "description": "可直接剪切板粘贴二维码图片",
-          "icon": "https://qr.codeboy.me/favicon.png",
+          "title": "在线二维码识别 | 二维码解码 | 图片二维码解析 - UU在线工具",
+          "href": "https://uutool.cn/qrcode-decode",
+          "description": "在线二维码识别解密工具，可以识别解码二维码图片中包含的文本内容，支持二维码解码、二维码扫描，截图粘贴即可快速解析二维码图片，提取文本、网址等信息。",
+          "icon": "/assets/favicon_1759012197710.png",
           "enabled": true
         },
         {
