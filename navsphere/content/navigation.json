@@ -246,19 +246,19 @@
           "enabled": true
         },
         {
-          "id": "site_1754568933665_fw9cnnbns",
-          "title": "全球时间",
-          "href": "https://time.is/",
-          "description": "700 万个地点，58 种语言，与原子钟时间同步。",
-          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754568856543.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1754519949511_oqxyr4ohe",
           "title": "汇率换算器",
           "href": "https://wise.com/zh-cn/currency-converter",
           "description": "免费查看最新的外汇汇率广告，并使用 Wise 汇率换算器兑换世界主要货币。",
           "icon": "https://wise.com/public-resources/assets/icons/wise-personal/favicon.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754568933665_fw9cnnbns",
+          "title": "全球时间",
+          "href": "https://time.is/",
+          "description": "700 万个地点，58 种语言，与原子钟时间同步。",
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754568856543.ico",
           "enabled": true
         },
         {
