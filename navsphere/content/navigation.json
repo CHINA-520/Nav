@@ -230,6 +230,14 @@
           "enabled": true
         },
         {
+          "id": "site_1759103593423_ml0egqhfd",
+          "title": "OCR文字识别",
+          "href": "https://uutool.cn/ocr",
+          "description": "OCR图片文字识别工具，支持PDF、截图、扫描件文字提取，一键提取图片文字，转换为可编辑文本，高效处理纸质文档为电子版。",
+          "icon": "/assets/favicon_1759103591039.png",
+          "enabled": true
+        },
+        {
           "id": "site_1754569042515_yd5gvvt0e",
           "title": "Youtube视频下载器",
           "href": "https://yt5s.biz/zh-cn",
@@ -291,14 +299,6 @@
           "href": "https://blurbackground.ai/",
           "description": "使用 BlurBackground AI 可以瞬间模糊或去除图像背景。只需几秒钟，即可创建具有可调节模糊效果或透明背景的专业级照片。",
           "icon": "/assets/favicon_1756837356982.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1759103593423_ml0egqhfd",
-          "title": "OCR文字识别",
-          "href": "https://uutool.cn/ocr",
-          "description": "OCR图片文字识别工具，支持PDF、截图、扫描件文字提取，一键提取图片文字，转换为可编辑文本，高效处理纸质文档为电子版。",
-          "icon": "/assets/favicon_1759103591039.png",
           "enabled": true
         }
       ],
