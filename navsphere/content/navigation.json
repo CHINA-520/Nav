@@ -286,19 +286,19 @@
           "enabled": true
         },
         {
-          "id": "site_1756458677901_v28u5bpqq",
-          "title": "VPS四合一",
-          "href": "https://github.com/eooce/Sing-box",
-          "description": " sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞 - eooce/Sing-box",
-          "icon": "/assets/favicon_1756458592544.png",
-          "enabled": true
-        },
-        {
           "id": "site_1756837456188_fbsvqv9hn",
           "title": "AI 背景虚化与去除 ",
           "href": "https://blurbackground.ai/",
           "description": "使用 BlurBackground AI 可以瞬间模糊或去除图像背景。只需几秒钟，即可创建具有可调节模糊效果或透明背景的专业级照片。",
           "icon": "/assets/favicon_1756837356982.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1756458677901_v28u5bpqq",
+          "title": "VPS四合一",
+          "href": "https://github.com/eooce/Sing-box",
+          "description": " sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞 - eooce/Sing-box",
+          "icon": "/assets/favicon_1756458592544.png",
           "enabled": true
         }
       ],
