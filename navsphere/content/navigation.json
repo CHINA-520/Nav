@@ -292,6 +292,14 @@
           "description": "使用 BlurBackground AI 可以瞬间模糊或去除图像背景。只需几秒钟，即可创建具有可调节模糊效果或透明背景的专业级照片。",
           "icon": "/assets/favicon_1756837356982.png",
           "enabled": true
+        },
+        {
+          "id": "site_1759103593423_ml0egqhfd",
+          "title": "在线OCR图片文字识别 | 图片转文字提取 | 截图秒转文本 - UU在线工具",
+          "href": "https://uutool.cn/ocr",
+          "description": "OCR图片文字识别工具，支持PDF、截图、扫描件文字提取，一键提取图片文字，转换为可编辑文本，高效处理纸质文档为电子版。",
+          "icon": "/assets/favicon_1759103591039.png",
+          "enabled": true
         }
       ],
       "subCategories": []
