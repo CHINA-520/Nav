@@ -254,19 +254,19 @@
           "enabled": true
         },
         {
-          "id": "site_1754568933665_fw9cnnbns",
-          "title": "全球时间",
-          "href": "https://time.is/",
-          "description": "700 万个地点，58 种语言，与原子钟时间同步。",
-          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754568856543.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1754595355406_5gt8ss2h6",
           "title": "SWIFT代码",
           "href": "https://bank-codes-hk.com/swift-code-checker/",
           "description": "SWIFT代码工具会根据我们载有10万组独特SWIFT代码的数据库，检查你输入的SWIFT代码是否有效。",
           "icon": "https://bank-codes-hk.com/favicon.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754568933665_fw9cnnbns",
+          "title": "全球时间",
+          "href": "https://time.is/",
+          "description": "700 万个地点，58 种语言，与原子钟时间同步。",
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754568856543.ico",
           "enabled": true
         },
         {
