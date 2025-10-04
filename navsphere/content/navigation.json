@@ -499,7 +499,7 @@
           "title": "US-ASP",
           "href": "https://us-test.cfapps.us10-001.hana.ondemand.com/xiaolin",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=us-test.cfapps.us10-001.hana.ondemand.com",
+          "icon": "/assets/img_1759558664279.png",
           "enabled": true
         }
       ],
