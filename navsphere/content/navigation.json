@@ -485,6 +485,14 @@
           "description": "",
           "icon": "/assets/img_1759558664279.png",
           "enabled": true
+        },
+        {
+          "id": "site_1759558896661_91mymefes",
+          "title": "SG-ASP",
+          "href": "https://sg-test.cfapps.ap21.hana.ondemand.com/xiaolin",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=sg-test.cfapps.ap21.hana.ondemand.com",
+          "enabled": true
         }
       ],
       "subCategories": []
