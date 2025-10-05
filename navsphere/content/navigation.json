@@ -176,6 +176,14 @@
           "description": "我们检测大量IP数据，以及针对tiktok,facebook,油管等平台实际大量测试，统计影响IP质量的有效参数。为做外贸电商，海外社交流量用户提供方便检测工具。",
           "icon": "/assets/favicon_1757345336715.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1759654679508_igxcp15fl",
+          "title": "查看我的IP地址 - 实时获取公网IP、归属地与定位信息 - IP77",
+          "href": "https://ip77.net/myip/",
+          "description": "一键查看您的公网IP地址、所属地区、网络运营商等详细信息，支持IPv4与IPv6，快速准确，适用于开发者和普通用户。",
+          "icon": "/assets/favicon_1759654658036.png",
+          "enabled": true
         }
       ],
       "subCategories": []
