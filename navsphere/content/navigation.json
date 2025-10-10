@@ -507,7 +507,7 @@
           "title": "US-ASP",
           "href": "https://us-test.cfapps.us10-001.hana.ondemand.com/xiaolin",
           "description": "",
-          "icon": "/assets/img_1759558664279.png",
+          "icon": "https://zero.revival.baby/logo.svg",
           "enabled": true
         }
       ],
