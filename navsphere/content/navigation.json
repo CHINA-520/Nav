@@ -499,7 +499,7 @@
           "title": "SG-ASP",
           "href": "https://sg-test.cfapps.ap21.hana.ondemand.com/xiaolin",
           "description": "",
-          "icon": "/assets/img_1759558664279.png",
+          "icon": "https://zero.revival.baby/logo.svg",
           "enabled": true
         },
         {
