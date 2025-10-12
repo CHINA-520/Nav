@@ -308,6 +308,14 @@
           "description": " sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞 - eooce/Sing-box",
           "icon": "/assets/favicon_1756458592544.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760249652685_cjw5evntz",
+          "title": "分享视频",
+          "href": "https://sendvid.com",
+          "description": "免费便捷的视频托管，轻松分享。即时上传和分享视频，隐私控制，无需账户!",
+          "icon": "/assets/favicon_1760249584916.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
