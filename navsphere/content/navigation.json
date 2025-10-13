@@ -316,6 +316,14 @@
           "description": "免费便捷的视频托管，轻松分享。即时上传和分享视频，隐私控制，无需账户!",
           "icon": "/assets/favicon_1760249584916.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1760380384617_fr8tsfprc",
+          "title": "视频下载",
+          "href": "https://tubedown.cn/",
+          "description": "专注下载YouTube视频，音乐，字幕与封面，支持一键下载YouTube频道与播放列表，兼容Facebook, Twitter, Instagram, Vimeo, Twitch, TED, Bilibili 等100多个国内外热门视频网站",
+          "icon": "/assets/favicon_1760380312483.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
