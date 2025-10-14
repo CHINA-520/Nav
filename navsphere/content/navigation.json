@@ -324,6 +324,14 @@
           "description": "专注下载YouTube视频，音乐，字幕与封面，支持一键下载YouTube频道与播放列表，兼容Facebook, Twitter, Instagram, Vimeo, Twitch, TED, Bilibili 等100多个国内外热门视频网站",
           "icon": "/assets/favicon_1760380312483.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1760420924063_uoe6wybwc",
+          "title": "PDF工具",
+          "href": "https://bentopdf.com/index.html",
+          "description": "BentoPDF 是一个充满热情的项目，旨在为每个人提供免费、私密且强大的 PDF 工具包",
+          "icon": "/assets/favicon_1760420835737.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
