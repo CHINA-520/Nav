@@ -83,6 +83,40 @@
       "enabled": true
     },
     {
+      "id": "1754550401823",
+      "title": "🤖AI智能助手",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1754550605708_32bmgs3hs",
+          "title": "DeepSeek",
+          "href": "https://ai-chatbot.top",
+          "description": "满血版DeepSeek，支持实时对话、深度思考和联网搜索。完全免费且无限制使用",
+          "icon": "https://ai-chatbot.top/images/logo.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754550738925_9a7c40ija",
+          "title": "Microsoft Copilot",
+          "href": "https://copilot.microsoft.com/chats/2WNdga9tWHRCMWU3SrBYD",
+          "description": "微软“Copilot”是您的贴心伙伴，能为您提供信息、带来娱乐并激发灵感。您可以获取建议、获得反馈以及得到简洁明了的答案。现在就试用“Copilot”吧。",
+          "icon": "https://studiostaticassetsprod.azureedge.net/bundle-cmc/favicon.svg",
+          "enabled": true
+        },
+        {
+          "id": "site_1754590436057_mylhxcwss",
+          "title": "grok",
+          "href": "https://grok.com/",
+          "description": "Grok 是一个人工智能助手，旨在通过自然语言处理和机器学习技术来理解和回应用户的查询。它的设计目标是提供更加人性化、智能化的交互体验，使用户能够以自然语言与计算机进行沟通。",
+          "icon": "/assets/img_1756499805219.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1754513686351",
       "title": "⚙️网络相关",
       "icon": "Settings",
@@ -183,40 +217,6 @@
           "href": "https://ipjiance.com",
           "description": "我们检测大量IP数据，以及针对tiktok,facebook,油管等平台实际大量测试，统计影响IP质量的有效参数。为做外贸电商，海外社交流量用户提供方便检测工具。",
           "icon": "/assets/favicon_1757345336715.ico",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1754550401823",
-      "title": "🤖AI智能助手",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1754550605708_32bmgs3hs",
-          "title": "DeepSeek",
-          "href": "https://ai-chatbot.top",
-          "description": "满血版DeepSeek，支持实时对话、深度思考和联网搜索。完全免费且无限制使用",
-          "icon": "https://ai-chatbot.top/images/logo.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1754550738925_9a7c40ija",
-          "title": "Microsoft Copilot",
-          "href": "https://copilot.microsoft.com/chats/2WNdga9tWHRCMWU3SrBYD",
-          "description": "微软“Copilot”是您的贴心伙伴，能为您提供信息、带来娱乐并激发灵感。您可以获取建议、获得反馈以及得到简洁明了的答案。现在就试用“Copilot”吧。",
-          "icon": "https://studiostaticassetsprod.azureedge.net/bundle-cmc/favicon.svg",
-          "enabled": true
-        },
-        {
-          "id": "site_1754590436057_mylhxcwss",
-          "title": "grok",
-          "href": "https://grok.com/",
-          "description": "Grok 是一个人工智能助手，旨在通过自然语言处理和机器学习技术来理解和回应用户的查询。它的设计目标是提供更加人性化、智能化的交互体验，使用户能够以自然语言与计算机进行沟通。",
-          "icon": "/assets/img_1756499805219.png",
           "enabled": true
         }
       ],
