@@ -557,6 +557,14 @@
           "description": "Clash Verge Rev 是目前最受欢迎的 Clash 桌面网络代理客户端。Clash Verge Rev 基于 Mihomo 内核，代理功能强大，界面简洁易用并且支持自定义主题，是一个功能全面并且操作方便的强大客户端。Clash Verge Rev 支持 Windows、macOS 以及 Linux",
           "icon": "/assets/img_1760983940440.png",
           "enabled": true
+        },
+        {
+          "id": "1760984180415",
+          "title": "Mihomo Party",
+          "href": "https://github.com/mihomo-party-org/clash-party/releases",
+          "description": "Mihomo Party是基于Mihomo(Clash Meta)核心的新一代网络代理工具，界面简介清晰，功能强大。Mihomo Party 支持 Windows、macOS 以及 Linux 等所有主要桌面操作系统，能广泛满足不同用户的需求",
+          "icon": "/assets/img_1760984245100.png",
+          "enabled": true
         }
       ],
       "subCategories": []
