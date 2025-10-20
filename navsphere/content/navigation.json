@@ -527,14 +527,6 @@
           "enabled": true
         },
         {
-          "id": "site_1759558969364_plj6v1uxs",
-          "title": "US-ASP",
-          "href": "https://us-test.cfapps.us10-001.hana.ondemand.com/xiaolin",
-          "description": "",
-          "icon": "https://zero.revival.baby/logo.svg",
-          "enabled": true
-        },
-        {
           "id": "1760983673347",
           "title": "FlClash",
           "href": "https://github.com/chen08209/FlClash/releases",
