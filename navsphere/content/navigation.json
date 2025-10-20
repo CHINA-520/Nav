@@ -533,6 +533,14 @@
           "description": "",
           "icon": "https://zero.revival.baby/logo.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1760969532761_rux2ahfq0",
+          "title": "订阅中心",
+          "href": "https://dy.paicn.dpdns.org/16aa75d6-6d30-497c-8cb7-09b1fe9afd6a",
+          "description": "",
+          "icon": "https://zero.revival.baby/logo.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
