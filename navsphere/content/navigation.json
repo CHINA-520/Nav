@@ -549,6 +549,14 @@
           "description": "FlClash 是一款基于 ClashMeta(Mihomo) 核心的网络代理工具，它的界面基于 Material You 设计，简单易用，同时支持 Windows、Android、Linux 和 macOS 系统，并且开源免费",
           "icon": "/assets/img_1760983754973.png",
           "enabled": true
+        },
+        {
+          "id": "1760983886988",
+          "title": "clash-verge-rev",
+          "href": "https://github.com/clash-verge-rev/clash-verge-rev/releases",
+          "description": "Clash Verge Rev 是目前最受欢迎的 Clash 桌面网络代理客户端。Clash Verge Rev 基于 Mihomo 内核，代理功能强大，界面简洁易用并且支持自定义主题，是一个功能全面并且操作方便的强大客户端。Clash Verge Rev 支持 Windows、macOS 以及 Linux",
+          "icon": "/assets/img_1760983940440.png",
+          "enabled": true
         }
       ],
       "subCategories": []
