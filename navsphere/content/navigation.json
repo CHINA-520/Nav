@@ -547,7 +547,7 @@
           "title": "Mihomo Party",
           "href": "https://github.com/mihomo-party-org/clash-party/releases",
           "description": "Mihomo Party是基于Mihomo(Clash Meta)核心的新一代网络代理工具，界面简介清晰，功能强大。Mihomo Party 支持 Windows、macOS 以及 Linux 等所有主要桌面操作系统，能广泛满足不同用户的需求",
-          "icon": "/assets/img_1760984245100.png",
+          "icon": "https://clashparty.org/logo.png",
           "enabled": true
         }
       ],
