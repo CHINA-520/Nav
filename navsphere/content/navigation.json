@@ -539,7 +539,7 @@
           "title": "clash-verge-rev",
           "href": "https://github.com/clash-verge-rev/clash-verge-rev/releases",
           "description": "Clash Verge Rev 是目前最受欢迎的 Clash 桌面网络代理客户端。Clash Verge Rev 基于 Mihomo 内核，代理功能强大，界面简洁易用并且支持自定义主题，是一个功能全面并且操作方便的强大客户端。Clash Verge Rev 支持 Windows、macOS 以及 Linux",
-          "icon": "/assets/img_1760983940440.png",
+          "icon": "https://www.clashverge.dev/assets/logo.png",
           "enabled": true
         },
         {
