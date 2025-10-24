@@ -230,14 +230,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1759103593423_ml0egqhfd",
-          "title": "OCR文字识别",
-          "href": "https://uutool.cn/ocr",
-          "description": "OCR图片文字识别工具，支持PDF、截图、扫描件文字提取，一键提取图片文字，转换为可编辑文本，高效处理纸质文档为电子版。",
-          "icon": "/assets/favicon_1759103591039.png",
-          "enabled": true
-        },
-        {
           "id": "site_1754519949511_oqxyr4ohe",
           "title": "汇率换算器",
           "href": "https://wise.com/zh-cn/currency-converter",
@@ -357,6 +349,14 @@
               "href": "https://uutool.cn/qrcode-decode",
               "description": "在线二维码识别解密工具，可以识别解码二维码图片中包含的文本内容，支持二维码解码、二维码扫描，截图粘贴即可快速解析二维码图片，提取文本、网址等信息。",
               "icon": "/assets/favicon_1759012197710.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1759103593423_ml0egqhfd",
+              "title": "OCR文字识别",
+              "href": "https://uutool.cn/ocr",
+              "description": "OCR图片文字识别工具，支持PDF、截图、扫描件文字提取，一键提取图片文字，转换为可编辑文本，高效处理纸质文档为电子版。",
+              "icon": "/assets/favicon_1759103591039.png",
               "enabled": true
             }
           ]
