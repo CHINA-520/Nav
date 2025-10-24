@@ -254,14 +254,6 @@
           "enabled": true
         },
         {
-          "id": "site_1754670196692_wexxqo27l",
-          "title": "临时邮箱",
-          "href": "https://smail.pw",
-          "description": "Smail临时邮箱生成器提供免费一次性邮箱服务，24小时邮箱地址无需注册即可使用。专业临时邮件解决方案，保护隐私，防止垃圾邮件。立即生成临时邮箱！",
-          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754670182168.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1755796505309_ul23cgfid",
           "title": "Hexhub",
           "href": "https://www.hexhub.cn/",
@@ -367,7 +359,16 @@
           "icon": "Box",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754670196692_wexxqo27l",
+              "title": "临时邮箱",
+              "href": "https://smail.pw",
+              "description": "Smail临时邮箱生成器提供免费一次性邮箱服务，24小时邮箱地址无需注册即可使用。专业临时邮件解决方案，保护隐私，防止垃圾邮件。立即生成临时邮箱！",
+              "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754670182168.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
