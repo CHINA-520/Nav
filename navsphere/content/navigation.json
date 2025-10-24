@@ -342,7 +342,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "3fcc3377-ca19-497e-b798-bf3f918f92b4",
+          "title": "下载工具",
+          "icon": "BarChart",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1754521073887",
