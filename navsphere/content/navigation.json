@@ -246,14 +246,6 @@
           "enabled": true
         },
         {
-          "id": "site_1754569042515_yd5gvvt0e",
-          "title": "Youtube视频下载器",
-          "href": "https://yt5s.biz/zh-cn",
-          "description": "将高质量（720p，1080p，2k，4k）的YouTube视频下载到各种格式（MP4，MP3，3GP，WebM，M4A）。无需广告或应用。",
-          "icon": "https://yt5s.biz/theme/yt5s/images/favicon.png",
-          "enabled": true
-        },
-        {
           "id": "site_1754519949511_oqxyr4ohe",
           "title": "汇率换算器",
           "href": "https://wise.com/zh-cn/currency-converter",
@@ -348,6 +340,14 @@
               "href": "https://tubedown.cn/",
               "description": "专注下载YouTube视频，音乐，字幕与封面，支持一键下载YouTube频道与播放列表，兼容Facebook, Twitter, Instagram, Vimeo, Twitch, TED, Bilibili 等100多个国内外热门视频网站",
               "icon": "/assets/favicon_1760380312483.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1754569042515_yd5gvvt0e",
+              "title": "Youtube视频下载器",
+              "href": "https://yt5s.biz/zh-cn",
+              "description": "将高质量（720p，1080p，2k，4k）的YouTube视频下载到各种格式（MP4，MP3，3GP，WebM，M4A）。无需广告或应用。",
+              "icon": "https://yt5s.biz/theme/yt5s/images/favicon.png",
               "enabled": true
             }
           ]
