@@ -264,39 +264,6 @@
           ]
         },
         {
-          "id": "3fcc3377-ca19-497e-b798-bf3f918f92b4",
-          "title": "下载工具",
-          "icon": "BarChart",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1761281970027",
-              "title": "视频下载器",
-              "href": "https://steptodown.com/",
-              "description": "享受最简单快捷的视频下载工具，免费在线下载任何视频。无需注册，无限制！只需输入网址，即可开始下载。",
-              "icon": "/assets/favicon_1761281989391.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1760380384617_fr8tsfprc",
-              "title": "视频下载",
-              "href": "https://tubedown.cn/",
-              "description": "专注下载YouTube视频，音乐，字幕与封面，支持一键下载YouTube频道与播放列表，兼容Facebook, Twitter, Instagram, Vimeo, Twitch, TED, Bilibili 等100多个国内外热门视频网站",
-              "icon": "/assets/favicon_1760380312483.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1754569042515_yd5gvvt0e",
-              "title": "Youtube视频下载器",
-              "href": "https://yt5s.biz/zh-cn",
-              "description": "将高质量（720p，1080p，2k，4k）的YouTube视频下载到各种格式（MP4，MP3，3GP，WebM，M4A）。无需广告或应用。",
-              "icon": "https://yt5s.biz/theme/yt5s/images/favicon.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "199f3ed6-85ac-40d7-8181-98175064e429",
           "title": "辅助工具",
           "icon": "Box",
@@ -365,6 +332,39 @@
               "href": "https://github.com/eooce/Sing-box",
               "description": " sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞 - eooce/Sing-box",
               "icon": "/assets/favicon_1756458592544.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "3fcc3377-ca19-497e-b798-bf3f918f92b4",
+          "title": "下载工具",
+          "icon": "BarChart",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1761281970027",
+              "title": "视频下载器",
+              "href": "https://steptodown.com/",
+              "description": "享受最简单快捷的视频下载工具，免费在线下载任何视频。无需注册，无限制！只需输入网址，即可开始下载。",
+              "icon": "/assets/favicon_1761281989391.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1760380384617_fr8tsfprc",
+              "title": "视频下载",
+              "href": "https://tubedown.cn/",
+              "description": "专注下载YouTube视频，音乐，字幕与封面，支持一键下载YouTube频道与播放列表，兼容Facebook, Twitter, Instagram, Vimeo, Twitch, TED, Bilibili 等100多个国内外热门视频网站",
+              "icon": "/assets/favicon_1760380312483.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1754569042515_yd5gvvt0e",
+              "title": "Youtube视频下载器",
+              "href": "https://yt5s.biz/zh-cn",
+              "description": "将高质量（720p，1080p，2k，4k）的YouTube视频下载到各种格式（MP4，MP3，3GP，WebM，M4A）。无需广告或应用。",
+              "icon": "https://yt5s.biz/theme/yt5s/images/favicon.png",
               "enabled": true
             }
           ]
