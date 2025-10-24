@@ -230,14 +230,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1754519949511_oqxyr4ohe",
-          "title": "汇率换算器",
-          "href": "https://wise.com/zh-cn/currency-converter",
-          "description": "免费查看最新的外汇汇率广告，并使用 Wise 汇率换算器兑换世界主要货币。",
-          "icon": "https://wise.com/public-resources/assets/icons/wise-personal/favicon.png",
-          "enabled": true
-        },
-        {
           "id": "site_1756837456188_fbsvqv9hn",
           "title": "AI 背景虚化与去除 ",
           "href": "https://blurbackground.ai/",
@@ -366,6 +358,14 @@
               "href": "https://bank-codes-hk.com/swift-code-checker/",
               "description": "SWIFT代码工具会根据我们载有10万组独特SWIFT代码的数据库，检查你输入的SWIFT代码是否有效。",
               "icon": "https://bank-codes-hk.com/favicon.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1754519949511_oqxyr4ohe",
+              "title": "汇率换算器",
+              "href": "https://wise.com/zh-cn/currency-converter",
+              "description": "免费查看最新的外汇汇率广告，并使用 Wise 汇率换算器兑换世界主要货币。",
+              "icon": "https://wise.com/public-resources/assets/icons/wise-personal/favicon.png",
               "enabled": true
             }
           ]
