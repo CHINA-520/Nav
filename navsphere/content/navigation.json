@@ -351,6 +351,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "afd03ceb-5ccb-477d-8c75-8b4e3ba58f0c",
+          "title": "文本工具",
+          "icon": "FileText",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
