@@ -246,14 +246,6 @@
           "enabled": true
         },
         {
-          "id": "site_1754568933665_fw9cnnbns",
-          "title": "全球时间",
-          "href": "https://time.is/",
-          "description": "700 万个地点，58 种语言，与原子钟时间同步。",
-          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754568856543.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1756837456188_fbsvqv9hn",
           "title": "AI 背景虚化与去除 ",
           "href": "https://blurbackground.ai/",
@@ -366,6 +358,14 @@
               "href": "https://www.hexhub.cn/",
               "description": "HexHub 为程序员和运维人员量身打造的一站式开发运维利器",
               "icon": "/assets/favicon_1755796475606.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1754568933665_fw9cnnbns",
+              "title": "全球时间",
+              "href": "https://time.is/",
+              "description": "700 万个地点，58 种语言，与原子钟时间同步。",
+              "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754568856543.ico",
               "enabled": true
             }
           ]
