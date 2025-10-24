@@ -292,14 +292,6 @@
           "description": "免费便捷的视频托管，轻松分享。即时上传和分享视频，隐私控制，无需账户!",
           "icon": "/assets/favicon_1760249584916.ico",
           "enabled": true
-        },
-        {
-          "id": "site_1760420924063_uoe6wybwc",
-          "title": "PDF工具",
-          "href": "https://bentopdf.com/index.html",
-          "description": "BentoPDF是一款功能强大、注重隐私的客户端 PDF 工具包，可让您直接在浏览器中操作、编辑、合并和处理 PDF 文件。无需服务器端处理，确保您的文件安全私密。",
-          "icon": "/assets/favicon_1760420835737.svg",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -357,6 +349,14 @@
               "href": "https://uutool.cn/ocr",
               "description": "OCR图片文字识别工具，支持PDF、截图、扫描件文字提取，一键提取图片文字，转换为可编辑文本，高效处理纸质文档为电子版。",
               "icon": "/assets/favicon_1759103591039.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1760420924063_uoe6wybwc",
+              "title": "PDF工具",
+              "href": "https://bentopdf.com/index.html",
+              "description": "BentoPDF是一款功能强大、注重隐私的客户端 PDF 工具包，可让您直接在浏览器中操作、编辑、合并和处理 PDF 文件。无需服务器端处理，确保您的文件安全私密。",
+              "icon": "/assets/favicon_1760420835737.svg",
               "enabled": true
             }
           ]
