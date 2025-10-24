@@ -332,14 +332,6 @@
           "description": "BentoPDF是一款功能强大、注重隐私的客户端 PDF 工具包，可让您直接在浏览器中操作、编辑、合并和处理 PDF 文件。无需服务器端处理，确保您的文件安全私密。",
           "icon": "/assets/favicon_1760420835737.svg",
           "enabled": true
-        },
-        {
-          "id": "1761281970027",
-          "title": "视频下载器",
-          "href": "https://steptodown.com/",
-          "description": "享受最简单快捷的视频下载工具，免费在线下载任何视频。无需注册，无限制！只需输入网址，即可开始下载。",
-          "icon": "/assets/favicon_1761281989391.png",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -349,7 +341,16 @@
           "icon": "BarChart",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1761281970027",
+              "title": "视频下载器",
+              "href": "https://steptodown.com/",
+              "description": "享受最简单快捷的视频下载工具，免费在线下载任何视频。无需注册，无限制！只需输入网址，即可开始下载。",
+              "icon": "/assets/favicon_1761281989391.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
