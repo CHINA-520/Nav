@@ -576,6 +576,14 @@
           "description": "多客户端支持 • 智能优选 • 一键生成",
           "icon": "https://nav-8yo.pages.dev/assets/img_1759558615151.png",
           "enabled": true
+        },
+        {
+          "id": "1761664120600",
+          "title": "订阅中心",
+          "href": "https://railway-production-bb5f.up.railway.app/sub",
+          "description": "佬王",
+          "icon": "https://nav-8yo.pages.dev/assets/img_1759558615151.png",
+          "enabled": true
         }
       ],
       "subCategories": []
