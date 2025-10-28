@@ -333,6 +333,14 @@
               "description": " sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞 - eooce/Sing-box",
               "icon": "/assets/favicon_1756458592544.png",
               "enabled": true
+            },
+            {
+              "id": "1761673539968",
+              "title": "域名注册",
+              "href": "https://www.spaceship.com/",
+              "description": "无缝连接网络，使用Spaceship的域名、主机、电子邮件及其他在线产品与解决方案。Spaceship将您与数字产品连接起来，通过顶级产品、安全性和隐私保护，助力您的创意，这一切都通过一个强大且快速的平台进行管理",
+              "icon": "/assets/favicon_1761673545931.svg",
+              "enabled": true
             }
           ]
         },
