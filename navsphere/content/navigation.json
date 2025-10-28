@@ -546,14 +546,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1759256741793_kkx5soj8w",
-          "title": "订阅中心",
-          "href": "https://new1.test1101.ggff.net/351c9981-04b6-4103-aa4b-864aa9c91469",
-          "description": "多客户端支持 • 智能优选 • 一键生成",
-          "icon": "https://nav-8yo.pages.dev/assets/img_1759558615151.png",
-          "enabled": true
-        },
-        {
           "id": "site_1760969532761_rux2ahfq0",
           "title": "订阅中心",
           "href": "https://dy.paicn.dpdns.org/16aa75d6-6d30-497c-8cb7-09b1fe9afd6a",
