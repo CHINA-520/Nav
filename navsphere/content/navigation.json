@@ -584,6 +584,14 @@
           "description": "多客户端支持 • 智能优选 • 一键生成",
           "icon": "https://nav-8yo.pages.dev/assets/img_1759558615151.png",
           "enabled": true
+        },
+        {
+          "id": "1761912564747",
+          "title": "代理订阅中心",
+          "href": "https://testnew.joeytest.ggff.net/a4de1614-20bd-477a-bd95-5804627e6173",
+          "description": "多客户端支持 • 智能优选 • 一键生成",
+          "icon": "https://nav-8yo.pages.dev/assets/img_1759558615151.png",
+          "enabled": true
         }
       ],
       "subCategories": []
