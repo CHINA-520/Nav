@@ -260,6 +260,14 @@
               "description": "BentoPDF是一款功能强大、注重隐私的客户端 PDF 工具包，可让您直接在浏览器中操作、编辑、合并和处理 PDF 文件。无需服务器端处理，确保您的文件安全私密。",
               "icon": "/assets/favicon_1760420835737.svg",
               "enabled": true
+            },
+            {
+              "id": "1761975796405",
+              "title": "智能表格",
+              "href": "https://cheatsheet-nu.vercel.app",
+              "description": "把表格工作从枯燥的单元格输入，升级成了和 AI 对话的体验，让你用自然语言来创建、修改、分析数据，并可直观地画出图表",
+              "icon": "/assets/favicon_1761975801466.ico",
+              "enabled": true
             }
           ]
         },
