@@ -608,6 +608,14 @@
           "description": "多客户端支持 • 智能优选 • 一键生成",
           "icon": "https://nav-8yo.pages.dev/assets/img_1759558615151.png",
           "enabled": true
+        },
+        {
+          "id": "1762179035480",
+          "title": "Happ · GitHub",
+          "href": "https://github.com/Happ-proxy",
+          "description": "Happ 是一款跨平台应用程序，旨在提供便捷的代理管理体验。它基于强大的 Xray 内核构建，可在 Windows、macOS、Linux 和移动设备上运行。凭借其直观的界面和灵活的设置，Happ 是一款可靠的工具，适合初学者和高级用户使用",
+          "icon": "https://avatars.githubusercontent.com/u/195639782?s=200&v=4",
+          "enabled": true
         }
       ],
       "subCategories": []
