@@ -124,6 +124,14 @@
       "enabled": true,
       "items": [
         {
+          "id": "1763015401333",
+          "title": "IP信息",
+          "href": "https://ipcheck.ing/#/",
+          "description": "一个更好、更开源的IP工具箱。轻松查看内容",
+          "icon": "/assets/favicon_1763015423638.svg",
+          "enabled": true
+        },
+        {
           "id": "site_1759654679508_igxcp15fl",
           "title": "您的IP地址",
           "href": "https://ip77.net/myip/",
@@ -225,14 +233,6 @@
           "href": "https://ipjiance.com",
           "description": "我们检测大量IP数据，以及针对tiktok,facebook,油管等平台实际大量测试，统计影响IP质量的有效参数。为做外贸电商，海外社交流量用户提供方便检测工具。",
           "icon": "/assets/favicon_1757345336715.ico",
-          "enabled": true
-        },
-        {
-          "id": "1763015401333",
-          "title": "IP信息",
-          "href": "https://ipcheck.ing/#/",
-          "description": "一个更好、更开源的IP工具箱。轻松查看内容",
-          "icon": "/assets/favicon_1763015423638.svg",
           "enabled": true
         }
       ],
