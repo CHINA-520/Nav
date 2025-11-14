@@ -292,6 +292,14 @@
               "description": "把表格工作从枯燥的单元格输入，升级成了和 AI 对话的体验，让你用自然语言来创建、修改、分析数据，并可直观地画出图表",
               "icon": "/assets/favicon_1761975801466.ico",
               "enabled": true
+            },
+            {
+              "id": "1763134066731",
+              "title": "地址证明",
+              "href": "https://www.addrproof.top",
+              "description": "地址证明生成器",
+              "icon": "https://nav-8yo.pages.dev/assets/img_1758619676440.png",
+              "enabled": true
             }
           ]
         },
