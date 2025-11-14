@@ -270,14 +270,6 @@
               "enabled": true
             },
             {
-              "id": "1762059176641",
-              "title": "Google翻译",
-              "href": "https://translate.google.com",
-              "description": "一款免费在线翻译服务，支持多种语言之间的文本、语音、图像和实时对话翻译。它利用先进的机器学习和人工智能技术，为用户提供快速、便捷的翻译服务",
-              "icon": "/assets/favicon_1762059185478.png",
-              "enabled": true
-            },
-            {
               "id": "1763134066731",
               "title": "地址证明",
               "href": "https://www.addrproof.top",
@@ -299,6 +291,14 @@
               "href": "https://cheatsheet-nu.vercel.app",
               "description": "把表格工作从枯燥的单元格输入，升级成了和 AI 对话的体验，让你用自然语言来创建、修改、分析数据，并可直观地画出图表",
               "icon": "/assets/favicon_1761975801466.ico",
+              "enabled": true
+            },
+            {
+              "id": "1762059176641",
+              "title": "Google翻译",
+              "href": "https://translate.google.com",
+              "description": "一款免费在线翻译服务，支持多种语言之间的文本、语音、图像和实时对话翻译。它利用先进的机器学习和人工智能技术，为用户提供快速、便捷的翻译服务",
+              "icon": "/assets/favicon_1762059185478.png",
               "enabled": true
             }
           ]
