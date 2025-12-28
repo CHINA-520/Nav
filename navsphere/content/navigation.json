@@ -311,6 +311,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1766888954047",
+              "title": "文件快递柜",
+              "href": "https://share.lanol.cn/#/",
+              "description": "开箱即用的文件快传系统",
+              "icon": "/assets/favicon_1766888964694.png",
+              "enabled": true
+            },
+            {
               "id": "site_1754670196692_wexxqo27l",
               "title": "临时邮箱",
               "href": "https://smail.pw",
@@ -380,14 +388,6 @@
               "href": "https://www.spaceship.com/",
               "description": "无缝连接网络，使用Spaceship的域名、主机、电子邮件及其他在线产品与解决方案。Spaceship将您与数字产品连接起来，通过顶级产品、安全性和隐私保护，助力您的创意，这一切都通过一个强大且快速的平台进行管理",
               "icon": "/assets/favicon_1761673545931.svg",
-              "enabled": true
-            },
-            {
-              "id": "1766888954047",
-              "title": "文件快递柜",
-              "href": "https://share.lanol.cn/#/",
-              "description": "开箱即用的文件快传系统",
-              "icon": "/assets/favicon_1766888964694.png",
               "enabled": true
             }
           ]
