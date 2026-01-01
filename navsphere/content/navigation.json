@@ -76,6 +76,14 @@
           "description": "Google 搜索是由 Google LLC 提供的一项网络搜索引擎服务。它允许用户通过输入关键词或短语来查找互联网上的信息。Google 搜索是世界上最受欢迎和广泛使用的搜索引擎之一，每天处理数十亿次查询。",
           "icon": "/assets/favicon_1755302175841.png",
           "enabled": true
+        },
+        {
+          "id": "1767290366639",
+          "title": "订阅管理系统",
+          "href": "https://sub.mokevin.dpdns.org",
+          "description": "SubsTracker - 订阅管理与提醒系统,帮助您轻松跟踪各类订阅服务的缩短时间，并通过Telegram、Webhook等多渠道发送及时提醒",
+          "icon": "https://img.icons8.com/ios-filled/150/228BE6/reminders.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
