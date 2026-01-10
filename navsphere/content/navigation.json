@@ -76,6 +76,14 @@
           "description": "Google 搜索是全球使用最广泛的互联网搜索引擎，由谷歌公司开发，帮助用户快速查找网页、图片、视频、地图、新闻等多种信息。它不仅是信息检索工具，更是全球数字生态的重要入口。",
           "icon": "/assets/img_1768039655746.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768039869487_j9i39vf8k",
+          "title": "订阅管理系统",
+          "href": "https://sub.mokevin.dpdns.org",
+          "description": "管理您的订阅提醒",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=sub.mokevin.dpdns.org",
+          "enabled": true
         }
       ],
       "subCategories": [],
