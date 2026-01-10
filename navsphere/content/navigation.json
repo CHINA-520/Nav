@@ -127,6 +127,14 @@
               "description": "访问 ai-chatbot.top",
               "icon": "/assets/favicon_1768051640931.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768051953176_xbrzqy9fm",
+              "title": "Microsoft Copilot",
+              "href": "https://copilot.microsoft.com/",
+              "description": "Copilot 是一个集搜索、创作、学习和生产力于一体的智能助手，既能满足日常生活需求，也能在工作和学习中提供强大支持。",
+              "icon": "/assets/favicon_1768051676862.ico",
+              "enabled": true
             }
           ]
         },
