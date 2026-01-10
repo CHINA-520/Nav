@@ -12,6 +12,14 @@
           "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
           "icon": "/assets/favicon_1768036573417.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768036657802_s7280nig8",
+          "title": "Gmail邮箱",
+          "href": "https://mail.google.com/mail/u/0/#inbox",
+          "description": "Gmail 是一款直观、高效且实用的邮件应用。免费提供 15 GB 存储空间，具备出色的垃圾邮件过滤功能，而且支持移动访问。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=mail.google.com",
+          "enabled": true
         }
       ],
       "subCategories": [],
