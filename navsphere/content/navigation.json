@@ -52,6 +52,14 @@
           "description": "Dropbox 是一家全球知名的云存储与文件同步服务商，成立于 2007 年，总部位于美国旧金山。它通过“云计算”技术让用户在不同设备之间轻松存储、同步和共享文件。",
           "icon": "/assets/img_1768038632635.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768038845658_ba4p80cx1",
+          "title": "GitHub",
+          "href": "https://github.com/",
+          "description": "GitHub 是全球最大的开源代码托管与协作平台，基于 Git 版本控制系统，帮助开发者存储、管理和协作开发软件项目。它不仅是代码仓库，更是一个开发者社区",
+          "icon": "/assets/img_1768038788283.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
