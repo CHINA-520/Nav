@@ -135,6 +135,14 @@
               "description": "Copilot 是一个集搜索、创作、学习和生产力于一体的智能助手，既能满足日常生活需求，也能在工作和学习中提供强大支持。",
               "icon": "/assets/favicon_1768051676862.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1768052125391_ho3q0dz29",
+              "title": "Grok",
+              "href": "https://grok.com",
+              "description": "Grok 是埃隆·马斯克旗下 xAI 公司开发的人工智能大模型系列，首发于 2023 年 11 月，目前已迭代到 Grok 4.1。它以“实时联网、幽默风格和强大推理能力”著称，被视为 ChatGPT、Gemini 等模型的竞争对手。",
+              "icon": "/assets/favicon_1768052100631.png",
+              "enabled": true
             }
           ]
         },
