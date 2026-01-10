@@ -334,6 +334,14 @@
               "description": "PayPal 是全球领先的在线支付平台之一，成立于 1998 年，总部位于美国加州圣何塞。它为个人和企业提供安全、快捷的跨境支付与收款服务，被广泛应用于电商、跨境贸易和个人转账。",
               "icon": "/assets/favicon_1768056235759.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768057353653_0a1y0aiwf",
+              "title": "Kraken",
+              "href": "https://www.kraken.com/zh-cn",
+              "description": "在 Kraken 上买入、卖出、交易和储存加密货币，这是一个在 受监管的安全加密货币交易平台。",
+              "icon": "/assets/favicon_1768057337975.png",
+              "enabled": true
             }
           ]
         },
