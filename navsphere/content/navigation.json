@@ -119,7 +119,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1768051628572_kergcj0yh",
+              "title": "DeepSeek",
+              "href": "https://ai-chatbot.top/",
+              "description": "满血版DeepSeek，支持实时对话、深度思考和联网搜索。完全免费且无限制使用。",
+              "icon": "/assets/favicon_1768051577272.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
