@@ -249,7 +249,7 @@
               "id": "1768058469765",
               "title": "volet",
               "href": "https://account.volet.com/login",
-              "description": "",
+              "description": "Volet 是一个专注于 加密货币支付与兑换 的平台，提供 API 和插件支持，适合开发者和商家快速接入加密支付。但需注意其 合规限制（不支持美国用户） 以及跨境支付的风险。",
               "icon": "/assets/img_1768058542078.png",
               "enabled": true
             }
