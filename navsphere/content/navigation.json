@@ -326,6 +326,14 @@
               "description": "Wise（原名 TransferWise）是一家总部位于英国伦敦的金融科技公司，专注于跨境汇款和多币种账户服务，以“透明汇率、低手续费”著称。它为个人和企业提供更便捷的国际支付解决方案。",
               "icon": "/assets/favicon_1768056084309.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768056301576_ck091sdud",
+              "title": "PayPal",
+              "href": "https://www.paypal.com/us/home",
+              "description": "PayPal 是全球领先的在线支付平台之一，成立于 1998 年，总部位于美国加州圣何塞。它为个人和企业提供安全、快捷的跨境支付与收款服务，被广泛应用于电商、跨境贸易和个人转账。",
+              "icon": "/assets/favicon_1768056235759.png",
+              "enabled": true
             }
           ]
         },
