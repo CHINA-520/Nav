@@ -244,6 +244,14 @@
               "description": "Wirex 是一家总部位于伦敦的金融科技公司，专注于数字支付和加密货币与传统金融的融合。它以“加密货币日常化”为核心理念，提供多币种账户和支付卡服务，让用户能够在全球范围内自由使用数字资产。",
               "icon": "/assets/favicon_1768057497924.png",
               "enabled": true
+            },
+            {
+              "id": "1768058469765",
+              "title": "volet",
+              "href": "https://account.volet.com/login",
+              "description": "",
+              "icon": "/assets/img_1768058542078.png",
+              "enabled": true
             }
           ]
         },
