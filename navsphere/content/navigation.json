@@ -196,16 +196,7 @@
       "icon": "Building",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1768058919480_o5a6idkjg",
-          "title": "OCBC华侨",
-          "href": "https://www.ocbc.com/personal-banking/home",
-          "description": "华侨银行（OCBC Bank，全称 Oversea-Chinese Banking Corporation）是新加坡历史最悠久的本土银行之一，也是东南亚第二大金融服务集团，以稳健的财务实力和广泛的区域网络著称。",
-          "icon": "/assets/favicon_1768058855735.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "1cf1cbfa-1a31-4b39-a6ca-a05f153ccbf5",
@@ -270,7 +261,16 @@
           "icon": "Edit",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1768058919480_o5a6idkjg",
+              "title": "OCBC华侨",
+              "href": "https://www.ocbc.com/personal-banking/home",
+              "description": "华侨银行（OCBC Bank，全称 Oversea-Chinese Banking Corporation）是新加坡历史最悠久的本土银行之一，也是东南亚第二大金融服务集团，以稳健的财务实力和广泛的区域网络著称。",
+              "icon": "/assets/favicon_1768058855735.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
