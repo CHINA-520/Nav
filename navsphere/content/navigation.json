@@ -222,19 +222,19 @@
               "enabled": true
             },
             {
-              "id": "site_1768057353653_0a1y0aiwf",
-              "title": "Kraken",
-              "href": "https://www.kraken.com/zh-cn",
-              "description": "在 Kraken 上买入、卖出、交易和储存加密货币，这是一个在 受监管的安全加密货币交易平台。",
-              "icon": "/assets/favicon_1768057337975.png",
-              "enabled": true
-            },
-            {
               "id": "site_1768057461422_zuttfubzl",
               "title": "epa易派",
               "href": "https://www.epay.com/zh-CN",
               "description": "易派汇款的新闻板块主要介绍跨境汇款的基础知识，全球金融市场动态，如何结汇人民币和全球的本地银行的代收发的业务场景和操作办法。",
               "icon": "/assets/favicon_1768057391401.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1768057353653_0a1y0aiwf",
+              "title": "Kraken",
+              "href": "https://www.kraken.com/zh-cn",
+              "description": "在 Kraken 上买入、卖出、交易和储存加密货币，这是一个在 受监管的安全加密货币交易平台。",
+              "icon": "/assets/favicon_1768057337975.png",
               "enabled": true
             },
             {
