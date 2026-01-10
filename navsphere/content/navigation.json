@@ -28,6 +28,14 @@
           "description": "使用个人 Google 账号或 Google Workspace 账号（企业用途）访问 Google 表格。",
           "icon": "/assets/favicon_1768036693263.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768036760837_e03yo6pim",
+          "title": "微软邮箱",
+          "href": "https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2Fmail%2F0%2F&sdf=0",
+          "description": "",
+          "icon": "/assets/favicon_1768036731388.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
