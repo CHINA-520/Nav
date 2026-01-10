@@ -277,6 +277,14 @@
               "description": "Swissquote 瑞讯银行是一家总部位于瑞士的在线银行和金融服务公司，以数字化交易平台和创新金融科技著称。它是瑞士最大的在线银行之一，专注于证券交易、外汇、加密货币和数字金融服务。",
               "icon": "/assets/favicon_1768059521019.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768060140254_gy09lgv2a",
+              "title": "IFAST银行",
+              "href": "https://www.ifastgb.com/en/login",
+              "description": "IFAST银行",
+              "icon": "/assets/favicon_1768060052480.ico",
+              "enabled": true
             }
           ]
         }
