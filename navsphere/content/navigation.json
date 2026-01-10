@@ -555,7 +555,9 @@
           "description": "",
           "items": []
         }
-      ]
+      ],
+      "description": "",
+      "enabled": false
     },
     {
       "id": "1760512235168",
