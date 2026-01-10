@@ -350,6 +350,14 @@
               "description": "易派汇款的新闻板块主要介绍跨境汇款的基础知识，全球金融市场动态，如何结汇人民币和全球的本地银行的代收发的业务场景和操作办法。",
               "icon": "/assets/favicon_1768057391401.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768057598704_utkhx0urm",
+              "title": "Wirex",
+              "href": "https://id.wirexapp.com/login",
+              "description": "Wirex 是一家总部位于伦敦的金融科技公司，专注于数字支付和加密货币与传统金融的融合。它以“加密货币日常化”为核心理念，提供多币种账户和支付卡服务，让用户能够在全球范围内自由使用数字资产。",
+              "icon": "/assets/favicon_1768057497924.png",
+              "enabled": true
             }
           ]
         },
