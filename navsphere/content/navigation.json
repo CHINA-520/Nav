@@ -159,7 +159,7 @@
           "title": "MCP Server",
           "icon": "Edit",
           "description": "",
-          "enabled": true,
+          "enabled": false,
           "items": []
         },
         {
