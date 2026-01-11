@@ -581,6 +581,14 @@
               "description": "查询任意 IP 地址以进行欺诈检测。查看欺诈评分，以及包括真实国家/地区、运营商、代理状态和 Tor 状态在内的支持信息。",
               "icon": "/assets/favicon_1768095497039.png",
               "enabled": true
+            },
+            {
+              "id": "1768095626948",
+              "title": "IP质量",
+              "href": "https://ipjiance.com",
+              "description": "我们检测大量IP数据，以及针对tiktok,facebook,油管等平台实际大量测试，统计影响IP质量的有效参数。为做外贸电商，海外社交流量用户提供方便检测工具。",
+              "icon": "/assets/favicon_1768095630553.ico",
+              "enabled": true
             }
           ],
           "enabled": true
