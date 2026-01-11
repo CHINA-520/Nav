@@ -318,6 +318,14 @@
               "description": "盈透证券（Interactive Brokers，简称IBKR）是全球知名的在线经纪商，成立于1978年，总部位于美国康涅狄格州。作为一家全球性的金融服务公司，盈透证券提供广泛的金融产品和服务，包括股票、期权、期货、外汇、债券、基金等多种资产类别的交易。",
               "icon": "/assets/favicon_1768096984935.png",
               "enabled": true
+            },
+            {
+              "id": "1768097172302",
+              "title": "嘉信理财",
+              "href": "https://international.schwab.com",
+              "description": "嘉信理财（Charles Schwab）是一家总部位于美国旧金山的领先金融服务公司，主要提供证券经纪、财富管理和零售银行业务，是美国个人金融服务市场的重要参与者。",
+              "icon": "/assets/favicon_1768097179900.ico",
+              "enabled": true
             }
           ]
         }
