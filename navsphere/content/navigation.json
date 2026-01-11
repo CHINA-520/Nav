@@ -532,6 +532,14 @@
               "description": "在线二维码识别解密工具，可以识别解码二维码图片中包含的文本内容，支持二维码解码、二维码扫描，截图粘贴即可快速解析二维码图片，提取文本、网址等信息。",
               "icon": "/assets/favicon_1768096158199.png",
               "enabled": true
+            },
+            {
+              "id": "1768096256945",
+              "title": "PDF 工具",
+              "href": "https://www.bentopdf.com/index.html",
+              "description": "BentoPDF是一款功能强大、注重隐私的客户端 PDF 工具包，可让您直接在浏览器中操作、编辑、合并和处理 PDF 文件。无需服务器端处理，确保您的文件安全私密。",
+              "icon": "/assets/favicon_1768096263150.svg",
+              "enabled": true
             }
           ],
           "enabled": true
