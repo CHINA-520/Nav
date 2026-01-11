@@ -533,6 +533,14 @@
               "description": "一个更好、更开源的IP工具箱。轻松查看内容",
               "icon": "/assets/favicon_1768093999627.svg",
               "enabled": true
+            },
+            {
+              "id": "1768094053835",
+              "title": "IP地址查询",
+              "href": "https://iplark.com",
+              "description": "高精度IP归属地查询工具",
+              "icon": "/assets/favicon_1768094057805.png",
+              "enabled": true
             }
           ],
           "enabled": true
