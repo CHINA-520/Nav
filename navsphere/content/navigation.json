@@ -624,7 +624,16 @@
           "href": "#交互动效",
           "icon": "Book",
           "description": "",
-          "items": [],
+          "items": [
+            {
+              "id": "1768096482178",
+              "title": "视频下载器",
+              "href": "https://steptodown.com",
+              "description": "享受最简单快捷的视频下载工具，免费在线下载任何视频。无需注册，无限制！只需输入网址，即可开始下载。",
+              "icon": "/assets/favicon_1768096486481.png",
+              "enabled": true
+            }
+          ],
           "enabled": true
         },
         {
