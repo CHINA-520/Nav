@@ -565,6 +565,14 @@
               "description": "科学技术大学测速",
               "icon": "/assets/favicon_1768095256389.ico",
               "enabled": true
+            },
+            {
+              "id": "1768095347476",
+              "title": "Cloudflare测速",
+              "href": "https://speed.cloudflare.com",
+              "description": "测试您的互联网连接。使用我们的网速测试工具检查您的网络性能。该工具由 Cloudflare 的全球边缘网络提供支持。",
+              "icon": "/assets/favicon_1768095351146.png",
+              "enabled": true
             }
           ],
           "enabled": true
