@@ -541,6 +541,14 @@
               "description": "高精度IP归属地查询工具",
               "icon": "/assets/favicon_1768094057805.png",
               "enabled": true
+            },
+            {
+              "id": "1768094140026",
+              "title": "Google 测速",
+              "href": "https://fiber.google.com/speedtest",
+              "description": "测试一下你目前的网速，看看你的宽带wi-fi处理上传和下载的速度有多快。请参阅谷歌光纤计划选项以获得更快的互联网。",
+              "icon": "/assets/favicon_1768094144432.ico",
+              "enabled": true
             }
           ],
           "enabled": true
