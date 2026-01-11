@@ -747,6 +747,14 @@
               "description": "随机真实地址生成器，可以根据地图生成。",
               "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA7VBMVEX////k7vyFrfE0geoUceiStfeOtPIAZuYAbecac+gzffAqe/Odvflwm+cAa+pChfR+qff2qKHSOkYwb9j+9vbpJgvqPi/qQSdXacRRjfVCg/oajKz1/PL2t7PpNSTqQzWBaK7A2P8+kMkipTuz27zwf3f/06K1zPpAi9s0qFMsp052wYnubGLpODb3ngD/++M0plwtpk5btnL0jRz7vAT+89bf6f8qnnDpMy3xeCX80Gcgo0btVhb7ugD8y1H+6bulwWq+sg393pfauBil1LD8xTTsug1AqU9RsmpXq0nm9Op0rUDF5M3E05iSzKBcyPClAAAA70lEQVR4AWKgOQC0PhaJDcQwAFS6YWZmlsOM7pbD+f9zuvJNzuaWuRhG6HgznE7D5bBzbo/X6XP6/YHgowuFfRb+SCQSiOouFk84LRkh9NxkKp3JOp25HKXmC0UmS+VKulytAdQsV280mWylK5Vym26dQBdFj8l+ujIYjtRCxlhMppoczOYLui1XAjXZWm/m8y3dejvECS9b2s/nc/lumh8CEXdNvoqcE/JzgiSB80VWfqNyP6DxK+fy70BucgSd0VzOT6g4wwOmvCi1u4INt51yd7BlOkG2P+MsEMUZnnAXghflqTyRczzCc85neA3/bO8jQZ8yDjIAAAAASUVORK5CYII=",
               "enabled": true
+            },
+            {
+              "id": "1768115124817",
+              "title": "真实地址生成器",
+              "href": "https://ip-geoaddress-generator.pages.dev",
+              "description": "基于IP地址生成真实地址",
+              "icon": "/assets/favicon_1768115130049.ico",
+              "enabled": true
             }
           ],
           "enabled": true
