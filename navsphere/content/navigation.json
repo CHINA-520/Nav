@@ -707,6 +707,14 @@
               "description": "免费查看最新的外汇汇率广告，并使用 Wise 汇率换算器兑换世界主要货币。",
               "icon": "/assets/favicon_1768111895636.png",
               "enabled": true
+            },
+            {
+              "id": "1768111977062",
+              "title": "SWIFT代码",
+              "href": "https://bank-codes-hk.com/swift-code-checker",
+              "description": "SWIFT代码工具会根据我们载有10万组独特SWIFT代码的数据库，检查你输入的SWIFT代码是否有效。",
+              "icon": "/assets/favicon_1768111980959.png",
+              "enabled": true
             }
           ],
           "enabled": true
