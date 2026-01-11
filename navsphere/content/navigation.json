@@ -723,6 +723,14 @@
               "description": "HexHub 为程序员和运维人员量身打造的一站式开发运维利器。",
               "icon": "/assets/favicon_1768112058522.png",
               "enabled": true
+            },
+            {
+              "id": "1768112112107",
+              "title": "Spaceship域名注册",
+              "href": "https://www.spaceship.com",
+              "description": "借助 Spaceship 的域名、主机、电子邮件和其他在线产品及解决方案，轻松实现无缝上线。Spaceship 为您提供数字产品，通过强大而快速的平台，以一流的产品、安全和隐私保障，助力您的创意落地。",
+              "icon": "/assets/favicon_1768112117704.svg",
+              "enabled": true
             }
           ],
           "enabled": true
