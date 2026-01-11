@@ -295,6 +295,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "f2475255-a7ff-48f5-ae85-8da055bf34c6",
+          "title": "证券交易",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
