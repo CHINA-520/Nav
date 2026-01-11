@@ -731,6 +731,14 @@
               "description": "借助 Spaceship 的域名、主机、电子邮件和其他在线产品及解决方案，轻松实现无缝上线。Spaceship 为您提供数字产品，通过强大而快速的平台，以一流的产品、安全和隐私保障，助力您的创意落地。",
               "icon": "/assets/favicon_1768112117704.svg",
               "enabled": true
+            },
+            {
+              "id": "1768113233856",
+              "title": "智能表格",
+              "href": "https://cheatsheet-nu.vercel.app",
+              "description": "把表格工作从枯燥的单元格输入，升级成了和 AI 对话的体验，让你用自然语言来创建、修改、分析数据，并可直观地画出图表。",
+              "icon": "/assets/favicon_1768113238001.ico",
+              "enabled": true
             }
           ],
           "enabled": true
