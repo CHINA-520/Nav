@@ -516,7 +516,16 @@
           "href": "#图形创意",
           "icon": "Folder",
           "description": "",
-          "items": [],
+          "items": [
+            {
+              "id": "1768096100047",
+              "title": "OCR文字识别",
+              "href": "https://uutool.cn/ocr",
+              "description": "OCR图片文字识别工具，支持PDF、截图、扫描件文字提取，一键提取图片文字，转换为可编辑文本，高效处理纸质文档为电子版。",
+              "icon": "/assets/favicon_1768096105918.png",
+              "enabled": true
+            }
+          ],
           "enabled": true
         },
         {
