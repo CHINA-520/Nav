@@ -167,7 +167,7 @@
           "title": "多媒体",
           "icon": "BookOpen",
           "description": "",
-          "enabled": true,
+          "enabled": false,
           "items": []
         },
         {
