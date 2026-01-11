@@ -573,6 +573,14 @@
               "description": "测试您的互联网连接。使用我们的网速测试工具检查您的网络性能。该工具由 Cloudflare 的全球边缘网络提供支持。",
               "icon": "/assets/favicon_1768095351146.png",
               "enabled": true
+            },
+            {
+              "id": "1768095464361",
+              "title": "IP Address Fraud Check",
+              "href": "https://scamalytics.com/ip",
+              "description": "查询任意 IP 地址以进行欺诈检测。查看欺诈评分，以及包括真实国家/地区、运营商、代理状态和 Tor 状态在内的支持信息。",
+              "icon": "/assets/favicon_1768095497039.png",
+              "enabled": true
             }
           ],
           "enabled": true
