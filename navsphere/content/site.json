@@ -6,7 +6,7 @@
   },
   "appearance": {
     "logo": "/assets/images/alogo.webp",
-    "favicon": "/assets/images/favicon.webp",
+    "favicon": "https://avatars.githubusercontent.com/u/172922750?v=4",
     "theme": "system"
   },
   "navigation": {
