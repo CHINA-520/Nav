@@ -557,6 +557,14 @@
               "description": "测试您的互联网速度",
               "icon": "/assets/favicon_1768095120262.ico",
               "enabled": true
+            },
+            {
+              "id": "1768095251831",
+              "title": "大学测速",
+              "href": "https://test.ustc.edu.cn",
+              "description": "科学技术大学测速",
+              "icon": "/assets/favicon_1768095256389.ico",
+              "enabled": true
             }
           ],
           "enabled": true
