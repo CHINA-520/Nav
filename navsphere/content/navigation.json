@@ -175,7 +175,7 @@
           "title": "AI 代码生成助手",
           "icon": "Book",
           "description": "",
-          "enabled": true,
+          "enabled": false,
           "items": []
         },
         {
