@@ -525,7 +525,16 @@
           "href": "#界面设计",
           "icon": "Folder",
           "description": "",
-          "items": [],
+          "items": [
+            {
+              "id": "1768093978925",
+              "title": "IP信息",
+              "href": "https://ipcheck.ing/#/",
+              "description": "一个更好、更开源的IP工具箱。轻松查看内容",
+              "icon": "/assets/favicon_1768093999627.svg",
+              "enabled": true
+            }
+          ],
           "enabled": true
         },
         {
