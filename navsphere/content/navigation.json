@@ -647,6 +647,14 @@
               "description": "我们检测大量IP数据，以及针对tiktok,facebook,油管等平台实际大量测试，统计影响IP质量的有效参数。为做外贸电商，海外社交流量用户提供方便检测工具。",
               "icon": "/assets/favicon_1768095630553.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1768188428265_59riiljqb",
+              "title": "IP地址信息",
+              "href": "https://ippure.com/",
+              "description": "致力打造最专业、易用的 IP 纯净度检测平台；助力跨境电商、流媒体、AI 大模型及网络爬虫用户的数字化旅程。",
+              "icon": "/assets/favicon_1768188340781.png",
+              "enabled": true
             }
           ],
           "enabled": true
