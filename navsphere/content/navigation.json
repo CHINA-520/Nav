@@ -781,7 +781,16 @@
           "icon": "Bell",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1768450317814",
+              "title": "汉化中文",
+              "href": "https://t.me/setlanguage/classic-zh-cn",
+              "description": "点击此链接会将您的 Telegram 应用界面切换到另一种语言（简体·中文）。您随时可以在“设置”中将语言改回原来的语言。",
+              "icon": "/assets/favicon_1768450322966.svg",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
