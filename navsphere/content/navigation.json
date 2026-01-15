@@ -551,6 +551,14 @@
           "description": "",
           "items": [
             {
+              "id": "1768450552526",
+              "title": "Google翻译",
+              "href": "https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate",
+              "description": "Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。",
+              "icon": "/assets/favicon_1768450557508.ico",
+              "enabled": true
+            },
+            {
               "id": "1768096100047",
               "title": "OCR文字识别",
               "href": "https://uutool.cn/ocr",
@@ -580,14 +588,6 @@
               "href": "https://pdfcraft.devtoolcafe.com/zh",
               "description": "专业PDF工具 - 免费、私密、基于浏览器。无需上传到服务器，即可在线合并、拆分、压缩、转换和编辑PDF文件。",
               "icon": "/assets/favicon_1768300773928.svg",
-              "enabled": true
-            },
-            {
-              "id": "1768450552526",
-              "title": "Google翻译",
-              "href": "https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate",
-              "description": "Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。",
-              "icon": "/assets/favicon_1768450557508.ico",
               "enabled": true
             }
           ],
