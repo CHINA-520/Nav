@@ -774,6 +774,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "74edf4b2-32ca-4314-af5a-5eefff0c8578",
+          "title": "电报群组",
+          "icon": "Bell",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
