@@ -160,6 +160,14 @@
               "description": "\nVodafone（沃达丰） 是一家全球知名的跨国电信运营商，总部位于英国伯克郡纽伯里（Newbury, Berkshire），是世界上历史最悠久、规模最大的移动通信公司之一。",
               "icon": "/assets/favicon_1768738643671.png",
               "enabled": true
+            },
+            {
+              "id": "1768738795360",
+              "title": "短信接码",
+              "href": "https://hero-sms.com",
+              "description": "一个全球性的在线接码平台，提供虚拟号码用于接收短信验证码，支持注册海外网站与应用。它的核心优势是覆盖范围广、到码速度快、价格友好，并且注重隐私保护。",
+              "icon": "/assets/favicon_1768738799722.png",
+              "enabled": true
             }
           ]
         },
