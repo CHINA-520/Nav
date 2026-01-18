@@ -183,7 +183,7 @@
           "title": "提示词助手",
           "icon": "Book",
           "description": "",
-          "enabled": true,
+          "enabled": false,
           "items": []
         }
       ],
