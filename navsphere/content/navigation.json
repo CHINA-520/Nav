@@ -697,6 +697,14 @@
               "description": "专注下载YouTube视频，音乐，字幕与封面，支持一键下载YouTube频道与播放列表，兼容Facebook, Twitter, Instagram, Vimeo, Twitch, TED, Bilibili 等100多个国内外热门视频网站。",
               "icon": "/assets/favicon_1768096549436.ico",
               "enabled": true
+            },
+            {
+              "id": "1768718611215",
+              "title": "AB下载管理器",
+              "href": "https://abdownloadmanager.com",
+              "description": "这是一款免费、开源的桌面下载工具，被很多人视为 IDM（Internet Download Manager）的优秀免费替代品，尤其适合追求无广告、高颜值界面和多线程加速的用户。",
+              "icon": "/assets/favicon_1768718615630.svg",
+              "enabled": true
             }
           ],
           "enabled": true
