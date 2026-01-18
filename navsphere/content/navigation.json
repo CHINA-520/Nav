@@ -152,7 +152,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1768738623287",
+              "title": "沃达丰·德国",
+              "href": "https://www.vodafone.de/meinvodafone/services/teilnehmer/quickcheck?accordion=balanceDetails",
+              "description": "\nVodafone（沃达丰） 是一家全球知名的跨国电信运营商，总部位于英国伯克郡纽伯里（Newbury, Berkshire），是世界上历史最悠久、规模最大的移动通信公司之一。",
+              "icon": "/assets/favicon_1768738643671.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
