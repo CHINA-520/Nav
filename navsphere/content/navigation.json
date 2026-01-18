@@ -151,7 +151,7 @@
           "title": "网络通信",
           "icon": "Book",
           "description": "",
-          "enabled": false,
+          "enabled": true,
           "items": []
         },
         {
