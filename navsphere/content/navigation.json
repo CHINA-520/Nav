@@ -143,6 +143,14 @@
               "description": "Grok 是埃隆·马斯克旗下 xAI 公司开发的人工智能大模型系列，首发于 2023 年 11 月，目前已迭代到 Grok 4.1。它以“实时联网、幽默风格和强大推理能力”著称，被视为 ChatGPT、Gemini 等模型的竞争对手。",
               "icon": "/assets/favicon_1768052100631.png",
               "enabled": true
+            },
+            {
+              "id": "1769012845513",
+              "title": "Gemini",
+              "href": "https://gemini.google.com/app",
+              "description": "Google 的新一代生成式 AI 助理（generative AI assistant）的核心使用页面，取代了之前的 Bard（2024 年 Bard 正式更名为 Gemini）",
+              "icon": "/assets/favicon_1769012872339.png",
+              "enabled": true
             }
           ]
         },
