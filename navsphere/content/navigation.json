@@ -606,6 +606,14 @@
               "description": "BentoPDF是一款功能强大、注重隐私的客户端 PDF 工具包，可让您直接在浏览器中操作、编辑、合并和处理 PDF 文件。无需服务器端处理，确保您的文件安全私密。",
               "icon": "/assets/favicon_1768096263150.svg",
               "enabled": true
+            },
+            {
+              "id": "1769012103410",
+              "title": "文件共享",
+              "href": "https://wormhole.app",
+              "description": "Wormhole 让你能以端到端加密和自动过期链接的方式分享文件。",
+              "icon": "/assets/favicon_1769012108822.png",
+              "enabled": true
             }
           ],
           "enabled": true
