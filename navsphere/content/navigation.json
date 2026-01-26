@@ -78,6 +78,14 @@
           "enabled": true
         },
         {
+          "id": "site_1769465641913_33j0uh0a8",
+          "title": "Google 地图",
+          "href": "https://www.google.com/maps",
+          "description": "在 Google 地图上查找本地商户、查看卫星地图、查询公交和驾车路线。",
+          "icon": "/assets/favicon_1769465608622.ico",
+          "enabled": true
+        },
+        {
           "id": "site_1768039869487_j9i39vf8k",
           "title": "订阅管理系统",
           "href": "https://sub.mokevin.dpdns.org",
@@ -91,14 +99,6 @@
           "href": "https://sub.778652.xyz/login",
           "description": "一个功能强大、界面精美的订阅管理与转换工具",
           "icon": "/assets/img_1768054742498.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1769465641913_33j0uh0a8",
-          "title": "Google 地图",
-          "href": "https://www.google.com/maps",
-          "description": "在 Google 地图上查找本地商户、查看卫星地图、查询公交和驾车路线。",
-          "icon": "/assets/favicon_1769465608622.ico",
           "enabled": true
         }
       ],
