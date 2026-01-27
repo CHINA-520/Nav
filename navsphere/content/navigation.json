@@ -964,7 +964,7 @@
               "id": "site_1769544877590_97wz33uvy",
               "title": "mihomo-party",
               "href": "https://github.com/mihomo-party-org/clash-party/releases",
-              "description": "基于 Electron 的 Mihomo 图形客户端，专注于简单易用的体验。",
+              "description": "一款基于 Mihomo跨平台图形化代理客户端，由社区开发者维护，成为 Clash 系列生态中非常受欢迎的 Windows/macOS/Linux 桌面客户端之一，尤其适合喜欢现代界面、开箱即用、深度集成 Mihomo 高级功能的普通到中高级用户。",
               "icon": "/assets/favicon_1769544824641.png",
               "enabled": true
             },
