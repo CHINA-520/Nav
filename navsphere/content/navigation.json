@@ -959,6 +959,14 @@
               "description": "一款基于 Tauri 的现代化 GUI 客户端，专为 Windows、macOS 和 Linux 系统设计，提供定制化的代理体验 。",
               "icon": "/assets/favicon_1769544586561.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769544877590_97wz33uvy",
+              "title": "mihomo-party",
+              "href": "https://github.com/mihomo-party-org/clash-party/releases",
+              "description": "基于 Electron 的 Mihomo 图形客户端，专注于简单易用的体验。",
+              "icon": "/assets/favicon_1769544824641.png",
+              "enabled": true
             }
           ]
         },
