@@ -999,6 +999,14 @@
               "description": "FlClash 是一款基于 Clash Meta (Mihomo) 内核的跨平台代理客户端，界面采用现代化的 Material You 设计，简洁美观，支持 Windows、macOS、Linux 和 Android 平台，完全开源且无广告。它兼容多种主流协议（Shadowsocks、VMess、Trojan、Vless 等），适合新手和进阶用户使用。",
               "icon": "/assets/favicon_1769545742604.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769545960382_ivwy493nk",
+              "title": "ClashMeta",
+              "href": "https://github.com/MetaCubeX/ClashMetaForAndroid",
+              "description": "Clash Meta（现已更名为 Mihomo）是由社区团队 MetaCubeX 开发的开源代理内核，继承了原版 Clash 的功能并进行了增强，支持更多协议、更灵活的规则和更高性能，是目前 Clash 生态的主流选择。",
+              "icon": "/assets/favicon_1769545897552.png",
+              "enabled": true
             }
           ]
         },
