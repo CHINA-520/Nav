@@ -967,6 +967,14 @@
               "description": "基于 Electron 的 Mihomo 图形客户端，专注于简单易用的体验。",
               "icon": "/assets/favicon_1769544824641.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769544970094_shcbgszjr",
+              "title": "v2rayN",
+              "href": "https://github.com/2dust/v2rayN/releases",
+              "description": "适用于 Windows、Linux 和 macOS 的图形用户界面客户端，支持 Xray、sing-box 等插件。",
+              "icon": "/assets/favicon_1769544930914.png",
+              "enabled": true
             }
           ]
         },
