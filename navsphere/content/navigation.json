@@ -957,7 +957,7 @@
               "title": "clash-verge-rev",
               "href": "https://github.com/clash-verge-rev/clash-verge-rev/releases",
               "description": "一款基于 Tauri 的现代化 GUI 客户端，专为 Windows、macOS 和 Linux 系统设计，提供定制化的代理体验 。",
-              "icon": "/assets/favicon_1769544586561.png",
+              "icon": "https://www.clashverge.dev/assets/logo.png",
               "enabled": true
             },
             {
