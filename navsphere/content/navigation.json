@@ -936,6 +936,15 @@
           "items": []
         }
       ]
+    },
+    {
+      "id": "1769544471813",
+      "title": "科学上网",
+      "icon": "BarChart",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
