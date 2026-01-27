@@ -972,7 +972,7 @@
               "id": "site_1769544970094_shcbgszjr",
               "title": "v2rayN",
               "href": "https://github.com/2dust/v2rayN/releases",
-              "description": "适用于 Windows、Linux 和 macOS 的图形用户界面客户端，支持 Xray、sing-box 等插件。",
+              "description": "一个免费、开源的代理工具 GUI，专门用来管理各种节点，实现科学上网、绕过限制、隐私保护等功能。2026 年初最新版本已到 7.17.x 左右，支持 Windows、Linux、macOS（跨平台能力大幅提升）。",
               "icon": "/assets/favicon_1769544930914.png",
               "enabled": true
             },
