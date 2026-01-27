@@ -983,6 +983,14 @@
               "description": "Shadowrocket（小火箭）是一款非常知名的 iOS 代理工具，由 Shadow Launch Technology Limited 开发，在 App Store 上售价通常为 $2.99（一次性购买）。",
               "icon": "/assets/favicon_1769545009925.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769545693778_7qjo437yc",
+              "title": "Hiddify ",
+              "href": "https://github.com/hiddify/hiddify-app/releases",
+              "description": "Hiddify 是一款基于 Sing-box 内核的跨平台代理客户端，支持多种主流协议（如 Vless、Vmess、Reality、Wireguard、Hysteria 等），界面简洁易用，适合新手和进阶用户。它完全开源，安全透明，可在 Windows、macOS、Linux、Android、iOS 上使用。",
+              "icon": "/assets/favicon_1769545649649.png",
+              "enabled": true
             }
           ]
         },
