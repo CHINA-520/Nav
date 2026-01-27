@@ -977,6 +977,14 @@
               "enabled": true
             },
             {
+              "id": "site_1769545960382_ivwy493nk",
+              "title": "ClashMeta",
+              "href": "https://github.com/MetaCubeX/ClashMetaForAndroid",
+              "description": "Clash Meta（现已更名为 Mihomo）是由社区团队 MetaCubeX 开发的开源代理内核，继承了原版 Clash 的功能并进行了增强，支持更多协议、更灵活的规则和更高性能，是目前 Clash 生态的主流选择。",
+              "icon": "/assets/favicon_1769545897552.png",
+              "enabled": true
+            },
+            {
               "id": "site_1769544970094_shcbgszjr",
               "title": "v2rayN",
               "href": "https://github.com/2dust/v2rayN/releases",
@@ -998,14 +1006,6 @@
               "href": "https://github.com/hiddify/hiddify-app/releases",
               "description": "Hiddify 是一款基于 Sing-box 内核的跨平台代理客户端，支持多种主流协议（如 Vless、Vmess、Reality、Wireguard、Hysteria 等），界面简洁易用，适合新手和进阶用户。它完全开源，安全透明，可在 Windows、macOS、Linux、Android、iOS 上使用。",
               "icon": "/assets/favicon_1769545649649.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769545960382_ivwy493nk",
-              "title": "ClashMeta",
-              "href": "https://github.com/MetaCubeX/ClashMetaForAndroid",
-              "description": "Clash Meta（现已更名为 Mihomo）是由社区团队 MetaCubeX 开发的开源代理内核，继承了原版 Clash 的功能并进行了增强，支持更多协议、更灵活的规则和更高性能，是目前 Clash 生态的主流选择。",
-              "icon": "/assets/favicon_1769545897552.png",
               "enabled": true
             }
           ]
