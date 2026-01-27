@@ -1016,7 +1016,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1769546108346",
+              "title": "订阅中心",
+              "href": "https://ech2026.pages.dev/1d5a494e-17c3-423d-8b03-18d317e60016",
+              "description": "多客户端支持 • 智能优选 • 一键生成",
+              "icon": "/assets/img_1769546166265.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
