@@ -943,16 +943,7 @@
       "icon": "BarChart",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "1769544488380",
-          "title": "clash-verge-rev",
-          "href": "https://github.com/clash-verge-rev/clash-verge-rev/releases",
-          "description": "一款基于 Tauri 的现代化 GUI 客户端，专为 Windows、macOS 和 Linux 系统设计，提供定制化的代理体验 。",
-          "icon": "/assets/favicon_1769544586561.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "4d9442a6-a33d-4079-a317-80605c9bb386",
@@ -960,7 +951,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1769544488380",
+              "title": "clash-verge-rev",
+              "href": "https://github.com/clash-verge-rev/clash-verge-rev/releases",
+              "description": "一款基于 Tauri 的现代化 GUI 客户端，专为 Windows、macOS 和 Linux 系统设计，提供定制化的代理体验 。",
+              "icon": "/assets/favicon_1769544586561.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "2c28a875-c6c3-47a2-92d3-5ac0a2e5e72f",
