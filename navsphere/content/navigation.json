@@ -973,7 +973,7 @@
               "title": "FlClash",
               "href": "https://github.com/chen08209/FlClash/releases",
               "description": "FlClash 是一款基于 Clash Meta (Mihomo) 内核的跨平台代理客户端，界面采用现代化的 Material You 设计，简洁美观，支持 Windows、macOS、Linux 和 Android 平台，完全开源且无广告。它兼容多种主流协议（Shadowsocks、VMess、Trojan、Vless 等），适合新手和进阶用户使用。",
-              "icon": "/assets/favicon_1769545742604.png",
+              "icon": "https://getflclash.org/wp-content/uploads/2024/10/1729504133-favicon.png",
               "enabled": true
             },
             {
