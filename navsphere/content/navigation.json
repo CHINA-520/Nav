@@ -981,7 +981,7 @@
               "title": "ClashMeta",
               "href": "https://github.com/MetaCubeX/ClashMetaForAndroid",
               "description": "Clash Meta（现已更名为 Mihomo）是由社区团队 MetaCubeX 开发的开源代理内核，继承了原版 Clash 的功能并进行了增强，支持更多协议、更灵活的规则和更高性能，是目前 Clash 生态的主流选择。",
-              "icon": "/assets/favicon_1769545897552.png",
+              "icon": "https://ygpy.net/images/app/proxy/clash-meta/favicon.ico",
               "enabled": true
             },
             {
