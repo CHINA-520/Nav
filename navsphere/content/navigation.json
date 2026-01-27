@@ -969,6 +969,14 @@
               "enabled": true
             },
             {
+              "id": "site_1769545800435_w3fa3m5ak",
+              "title": "FlClash",
+              "href": "https://github.com/chen08209/FlClash/releases",
+              "description": "FlClash 是一款基于 Clash Meta (Mihomo) 内核的跨平台代理客户端，界面采用现代化的 Material You 设计，简洁美观，支持 Windows、macOS、Linux 和 Android 平台，完全开源且无广告。它兼容多种主流协议（Shadowsocks、VMess、Trojan、Vless 等），适合新手和进阶用户使用。",
+              "icon": "/assets/favicon_1769545742604.png",
+              "enabled": true
+            },
+            {
               "id": "site_1769544970094_shcbgszjr",
               "title": "v2rayN",
               "href": "https://github.com/2dust/v2rayN/releases",
@@ -990,14 +998,6 @@
               "href": "https://github.com/hiddify/hiddify-app/releases",
               "description": "Hiddify 是一款基于 Sing-box 内核的跨平台代理客户端，支持多种主流协议（如 Vless、Vmess、Reality、Wireguard、Hysteria 等），界面简洁易用，适合新手和进阶用户。它完全开源，安全透明，可在 Windows、macOS、Linux、Android、iOS 上使用。",
               "icon": "/assets/favicon_1769545649649.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769545800435_w3fa3m5ak",
-              "title": "FlClash",
-              "href": "https://github.com/chen08209/FlClash/releases",
-              "description": "FlClash 是一款基于 Clash Meta (Mihomo) 内核的跨平台代理客户端，界面采用现代化的 Material You 设计，简洁美观，支持 Windows、macOS、Linux 和 Android 平台，完全开源且无广告。它兼容多种主流协议（Shadowsocks、VMess、Trojan、Vless 等），适合新手和进阶用户使用。",
-              "icon": "/assets/favicon_1769545742604.png",
               "enabled": true
             },
             {
