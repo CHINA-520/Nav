@@ -997,7 +997,7 @@
               "title": "v2rayN",
               "href": "https://github.com/2dust/v2rayN/releases",
               "description": "一个免费、开源的代理工具 GUI，专门用来管理各种节点，实现科学上网、绕过限制、隐私保护等功能。2026 年初最新版本已到 7.17.x 左右，支持 Windows、Linux、macOS（跨平台能力大幅提升）。",
-              "icon": "/assets/favicon_1769544930914.png",
+              "icon": "https://v2rayn.info/wp-content/uploads/2024/10/v2rayN-1.png.webp",
               "enabled": true
             },
             {
